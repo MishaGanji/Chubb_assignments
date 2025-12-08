@@ -28,6 +28,7 @@ Value: `/opt/airflow/data`
 
 Used for locating landing zone files.
 
+![alt text](screenshots/image.png)
 ---
 
 ### Variable 2 — Minimum Order Threshold
@@ -37,7 +38,7 @@ Value: `10`
 
 Used in branching logic to check if daily order volume is low.
 
-![alt text](assignment_4/screenshots/threshold_variable.png)
+![alt text](screenshots/threshold_variable.png)
 ---
 
 ## 1.2 Airflow Connection — postgres_dwh
@@ -241,3 +242,4 @@ Else:
 → Branch to: `normal_flow`
 
 ---
+
