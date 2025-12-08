@@ -63,6 +63,8 @@ Connection details:
 
 This connection is used by all ETL tasks to load/transform/query PostgreSQL.
 
+![alt text](screenshots/postgres_conn.png)
+![alt text](screenshots/fs_default.png)
 ---
 
 # 📁 2. How to Place Input Files
@@ -173,6 +175,7 @@ customers_20251201.csv … customers_20251205.csv
 products_20251201.csv … products_20251205.csv
 orders_20251201.json … orders_20251205.json
 ```
+![alt text](screenshots/success.png)
 
 ---
 
@@ -190,6 +193,8 @@ SELECT COUNT(*) FROM dim_customers;
 
 Fails if the table has 0 rows.
 
+![alt text](screenshots/data_quality_notempty.png)
+
 ---
 
 ### ✔️ DQ Check 2 — fact_orders contains rows for the execution date
@@ -199,6 +204,8 @@ SELECT COUNT(*)
 FROM fact_orders
 WHERE order_timestamp::date = '{{ logical_date }}';
 ```
+![alt text](screenshots/data_quality_checkcust.png)
+
 
 ---
 
@@ -212,6 +219,8 @@ OR product_id IS NULL;
 ```
 
 Fails if invalid rows exist.
+
+![alt text](screenshots/data_quality_notnull.png)
 
 ---
 
@@ -232,14 +241,22 @@ SELECT COUNT(*)
 FROM fact_orders
 WHERE order_timestamp::date = '{{ logical_date }}';
 ```
+![alt text](screenshots/check_order_vol.png)
 
 If count < variable threshold (`shopverse_min_order_threshold`):
 
 → Branch to: `warn_low_volume`
 
+![alt text](screenshots/low_volume.png)
+
+
 Else:
 
 → Branch to: `normal_flow`
 
+![alt text](screenshots/normal_volume.png)
+
 ---
+
+
 
