@@ -1,0 +1,12 @@
+{"timestamp":"2025-12-08T20:16:04.579755Z","level":"info","event":"DAG bundles loaded: dags-folder, example_dags","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager","filename":"manager.py","lineno":179}
+{"timestamp":"2025-12-08T20:16:04.581806Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shopverse_daily_pipeline.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-12-08T20:16:04.751756Z","level":"warning","event":"The `airflow.utils.task_group.TaskGroup` attribute is deprecated. Please use `'airflow.sdk.TaskGroup'`.","category":"DeprecatedImportWarning","filename":"/opt/airflow/dags/shopverse_daily_pipeline.py","lineno":5,"logger":"py.warnings"}
+{"timestamp":"2025-12-08T20:16:04.940024Z","level":"info","event":"Task instance is in running state","logger":"task.stdout"}
+{"timestamp":"2025-12-08T20:16:04.940894Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.QUEUED","logger":"task.stdout"}
+{"timestamp":"2025-12-08T20:16:04.942109Z","level":"info","event":"Current task name:warehouse.build_fact_orders","logger":"task.stdout"}
+{"timestamp":"2025-12-08T20:16:04.943030Z","level":"info","event":"Dag name:shopverse_daily_pipeline","logger":"task.stdout"}
+{"timestamp":"2025-12-08T20:16:04.944353Z","level":"info","event":"Building fact_orders","logger":"task.stdout"}
+{"timestamp":"2025-12-08T20:16:04.943394Z","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.decorators.python._PythonDecoratedOperator","filename":"python.py","lineno":215}
+{"timestamp":"2025-12-08T20:16:04.993045Z","level":"info","event":"Task instance in success state","logger":"task.stdout"}
+{"timestamp":"2025-12-08T20:16:04.994171Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.RUNNING","logger":"task.stdout"}
+{"timestamp":"2025-12-08T20:16:04.995266Z","level":"info","event":"Task operator:<Task(_PythonDecoratedOperator): warehouse.build_fact_orders>","logger":"task.stdout"}

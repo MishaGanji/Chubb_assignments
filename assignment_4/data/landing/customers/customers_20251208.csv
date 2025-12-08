@@ -1,0 +1,3 @@
+customer_id,first_name,last_name,email,signup_date,country
+1,John,Doe,john@example.com,2024-01-10,USA
+2,Sarah,Smith,sarah@example.com,2024-02-14,Canada

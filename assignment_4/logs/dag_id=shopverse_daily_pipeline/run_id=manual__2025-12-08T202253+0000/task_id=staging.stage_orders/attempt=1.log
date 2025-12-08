@@ -1,0 +1,12 @@
+{"timestamp":"2025-12-08T20:26:06.414588Z","level":"info","event":"DAG bundles loaded: dags-folder, example_dags","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager","filename":"manager.py","lineno":179}
+{"timestamp":"2025-12-08T20:26:06.416997Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shopverse_daily_pipeline.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-12-08T20:26:06.557846Z","level":"warning","event":"The `airflow.utils.task_group.TaskGroup` attribute is deprecated. Please use `'airflow.sdk.TaskGroup'`.","category":"DeprecatedImportWarning","filename":"/opt/airflow/dags/shopverse_daily_pipeline.py","lineno":5,"logger":"py.warnings"}
+{"timestamp":"2025-12-08T20:26:06.604228Z","level":"info","event":"Task instance is in running state","logger":"task.stdout"}
+{"timestamp":"2025-12-08T20:26:06.605113Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.QUEUED","logger":"task.stdout"}
+{"timestamp":"2025-12-08T20:26:06.605941Z","level":"info","event":"Current task name:staging.stage_orders","logger":"task.stdout"}
+{"timestamp":"2025-12-08T20:26:06.606875Z","level":"info","event":"Dag name:shopverse_daily_pipeline","logger":"task.stdout"}
+{"timestamp":"2025-12-08T20:26:06.607944Z","level":"info","event":"Staging orders for 20251208","logger":"task.stdout"}
+{"timestamp":"2025-12-08T20:26:06.607834Z","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.decorators.python._PythonDecoratedOperator","filename":"python.py","lineno":215}
+{"timestamp":"2025-12-08T20:26:06.655393Z","level":"info","event":"Task instance in success state","logger":"task.stdout"}
+{"timestamp":"2025-12-08T20:26:06.656290Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.RUNNING","logger":"task.stdout"}
+{"timestamp":"2025-12-08T20:26:06.657201Z","level":"info","event":"Task operator:<Task(_PythonDecoratedOperator): staging.stage_orders>","logger":"task.stdout"}

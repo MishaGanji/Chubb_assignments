@@ -1,0 +1,10 @@
+{"timestamp":"2025-12-08T20:05:16.747509Z","level":"info","event":"DAG bundles loaded: dags-folder, example_dags","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager","filename":"manager.py","lineno":179}
+{"timestamp":"2025-12-08T20:05:16.752478Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shopverse_daily_pipeline.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-12-08T20:05:17.083877Z","level":"warning","event":"The `airflow.utils.task_group.TaskGroup` attribute is deprecated. Please use `'airflow.sdk.TaskGroup'`.","category":"DeprecatedImportWarning","filename":"/opt/airflow/dags/shopverse_daily_pipeline.py","lineno":5,"logger":"py.warnings"}
+{"timestamp":"2025-12-08T20:05:17.189243Z","level":"info","event":"Task instance is in running state","logger":"task.stdout"}
+{"timestamp":"2025-12-08T20:05:17.190573Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.QUEUED","logger":"task.stdout"}
+{"timestamp":"2025-12-08T20:05:17.191786Z","level":"info","event":"Current task name:wait_for_file__2","logger":"task.stdout"}
+{"timestamp":"2025-12-08T20:05:17.192531Z","level":"info","event":"Dag name:shopverse_daily_pipeline","logger":"task.stdout"}
+{"timestamp":"2025-12-08T20:05:17.195130Z","level":"info","event":"🔍 Waiting for file: /opt/airflow/data/landing/orders/orders_20251207.json","logger":"task.stdout"}
+{"timestamp":"2025-12-08T20:08:12.908222Z","level":"error","event":"Server indicated the task shouldn't be running anymore. Terminating process","detail":{"detail":{"reason":"not_found","message":"Task Instance not found"}},"logger":"task"}
+{"timestamp":"2025-12-08T20:08:17.972450Z","level":"error","event":"Task killed!","logger":"task"}

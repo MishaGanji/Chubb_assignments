@@ -1,0 +1,22 @@
+[
+  {
+    "order_id": 5001,
+    "order_timestamp": "2025-01-01T10:15:00Z",
+    "customer_id": 1,
+    "product_id": 101,
+    "quantity": 1,
+    "total_amount": 699.00,
+    "currency": "USD",
+    "status": "completed"
+  },
+  {
+    "order_id": 5002,
+    "order_timestamp": "2025-01-01T12:00:00Z",
+    "customer_id": 2,
+    "product_id": 102,
+    "quantity": 1,
+    "total_amount": 1300.00,
+    "currency": "EUR",
+    "status": "completed"
+  }
+]

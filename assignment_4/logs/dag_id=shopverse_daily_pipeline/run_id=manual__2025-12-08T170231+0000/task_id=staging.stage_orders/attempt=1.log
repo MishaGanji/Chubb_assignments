@@ -1,0 +1,15 @@
+{"timestamp":"2025-12-08T17:02:39.539716Z","level":"info","event":"DAG bundles loaded: dags-folder, example_dags","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager","filename":"manager.py","lineno":179}
+{"timestamp":"2025-12-08T17:02:39.541745Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shopverse_daily_pipeline.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-12-08T17:02:39.638759Z","level":"warning","event":"The `airflow.decorators.dag` attribute is deprecated. Please use `'airflow.sdk.dag'`.","category":"DeprecatedImportWarning","filename":"/opt/airflow/dags/shopverse_daily_pipeline.py","lineno":2,"logger":"py.warnings"}
+{"timestamp":"2025-12-08T17:02:39.639281Z","level":"warning","event":"The `airflow.decorators.task` attribute is deprecated. Please use `'airflow.sdk.task'`.","category":"DeprecatedImportWarning","filename":"/opt/airflow/dags/shopverse_daily_pipeline.py","lineno":2,"logger":"py.warnings"}
+{"timestamp":"2025-12-08T17:02:39.639530Z","level":"warning","event":"The `airflow.sensors.filesystem.FileSensor` attribute is deprecated. Please use `'airflow.providers.standard.sensors.filesystem.FileSensor'`.","category":"DeprecatedImportWarning","filename":"/opt/airflow/dags/shopverse_daily_pipeline.py","lineno":3,"logger":"py.warnings"}
+{"timestamp":"2025-12-08T17:02:39.639671Z","level":"warning","event":"The `airflow.utils.task_group.TaskGroup` attribute is deprecated. Please use `'airflow.sdk.TaskGroup'`.","category":"DeprecatedImportWarning","filename":"/opt/airflow/dags/shopverse_daily_pipeline.py","lineno":4,"logger":"py.warnings"}
+{"timestamp":"2025-12-08T17:02:39.672485Z","level":"info","event":"Task instance is in running state","logger":"task.stdout"}
+{"timestamp":"2025-12-08T17:02:39.673436Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.QUEUED","logger":"task.stdout"}
+{"timestamp":"2025-12-08T17:02:39.674729Z","level":"info","event":"Current task name:staging.stage_orders","logger":"task.stdout"}
+{"timestamp":"2025-12-08T17:02:39.676188Z","level":"info","event":"Dag name:shopverse_daily_pipeline","logger":"task.stdout"}
+{"timestamp":"2025-12-08T17:02:39.677389Z","level":"info","event":"Staging orders for date 20251208","logger":"task.stdout"}
+{"timestamp":"2025-12-08T17:02:39.677638Z","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.decorators.python._PythonDecoratedOperator","filename":"python.py","lineno":215}
+{"timestamp":"2025-12-08T17:02:39.711454Z","level":"info","event":"Task instance in success state","logger":"task.stdout"}
+{"timestamp":"2025-12-08T17:02:39.712670Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.RUNNING","logger":"task.stdout"}
+{"timestamp":"2025-12-08T17:02:39.713923Z","level":"info","event":"Task operator:<Task(_PythonDecoratedOperator): staging.stage_orders>","logger":"task.stdout"}

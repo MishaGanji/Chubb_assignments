@@ -1,0 +1,12 @@
+{"timestamp":"2025-12-08T20:16:02.011574Z","level":"info","event":"DAG bundles loaded: dags-folder, example_dags","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager","filename":"manager.py","lineno":179}
+{"timestamp":"2025-12-08T20:16:02.013729Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shopverse_daily_pipeline.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-12-08T20:16:02.224764Z","level":"warning","event":"The `airflow.utils.task_group.TaskGroup` attribute is deprecated. Please use `'airflow.sdk.TaskGroup'`.","category":"DeprecatedImportWarning","filename":"/opt/airflow/dags/shopverse_daily_pipeline.py","lineno":5,"logger":"py.warnings"}
+{"timestamp":"2025-12-08T20:16:02.260928Z","level":"info","event":"Task instance is in running state","logger":"task.stdout"}
+{"timestamp":"2025-12-08T20:16:02.261934Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.QUEUED","logger":"task.stdout"}
+{"timestamp":"2025-12-08T20:16:02.262647Z","level":"info","event":"Current task name:warehouse.build_dim_customers","logger":"task.stdout"}
+{"timestamp":"2025-12-08T20:16:02.263444Z","level":"info","event":"Dag name:shopverse_daily_pipeline","logger":"task.stdout"}
+{"timestamp":"2025-12-08T20:16:02.264314Z","level":"info","event":"Building dim_customers","logger":"task.stdout"}
+{"timestamp":"2025-12-08T20:16:02.263989Z","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.decorators.python._PythonDecoratedOperator","filename":"python.py","lineno":215}
+{"timestamp":"2025-12-08T20:16:02.297655Z","level":"info","event":"Task instance in success state","logger":"task.stdout"}
+{"timestamp":"2025-12-08T20:16:02.298571Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.RUNNING","logger":"task.stdout"}
+{"timestamp":"2025-12-08T20:16:02.299790Z","level":"info","event":"Task operator:<Task(_PythonDecoratedOperator): warehouse.build_dim_customers>","logger":"task.stdout"}
