@@ -1,0 +1,1001 @@
+product_id,product_name,category,sub_category,unit_cost,unit_price
+PROD00001,First Jeans,Clothing,T-Shirts,406.21,50.81
+PROD00002,Still Outdoor,Clothing,Jeans,488.37,588.43
+PROD00003,Fall Appliances,Sports,Outdoor,324.11,58.08
+PROD00004,Democratic Skincare,Electronics,Mobile,142.54,607.69
+PROD00005,Source T-Shirts,Beauty,Makeup,498.35,802.41
+PROD00006,Focus Cookware,Electronics,Laptop,447.17,589.14
+PROD00007,Wife Laptop,Sports,Outdoor,259.12,997.05
+PROD00008,Ten Makeup,Sports,Fitness,413.53,461.31
+PROD00009,Fund Camera,Electronics,Headphones,408.83,751.34
+PROD00010,Kid Dresses,Beauty,Skincare,467.73,670.54
+PROD00011,Why Haircare,Clothing,T-Shirts,421.26,991.52
+PROD00012,There Haircare,Beauty,Skincare,323.62,716.09
+PROD00013,Medical Fitness,Beauty,Skincare,306.61,172.39
+PROD00014,Drive Appliances,Beauty,Makeup,236.34,955.96
+PROD00015,Painting Sportswear,Sports,Fitness,315.11,671.1
+PROD00016,Movie Mobile,Clothing,Dresses,398.63,68.74
+PROD00017,Republican Cookware,Sports,Fitness,484.67,660.99
+PROD00018,Ability Camera,Electronics,Laptop,236.31,884.29
+PROD00019,Doctor Jeans,Clothing,Jeans,288.96,581.27
+PROD00020,Still Jeans,Sports,Outdoor,225.18,360.48
+PROD00021,At Headphones,Clothing,Dresses,335.9,822.7
+PROD00022,Here Jeans,Home & Kitchen,Appliances,316.81,784.69
+PROD00023,Several Makeup,Sports,Outdoor,13.83,548.74
+PROD00024,Away Appliances,Clothing,Dresses,272.87,162.82
+PROD00025,Option Skincare,Clothing,Jackets,48.8,258.48
+PROD00026,Yeah Laptop,Home & Kitchen,Cookware,18.06,741.1
+PROD00027,Suddenly T-Shirts,Electronics,Camera,396.64,808.02
+PROD00028,Agency Fitness,Home & Kitchen,Decor,133.03,286.47
+PROD00029,Ground Appliances,Beauty,Makeup,173.62,374.31
+PROD00030,Hold Mobile,Beauty,Haircare,36.72,86.86
+PROD00031,Model Jeans,Electronics,Headphones,93.85,716.33
+PROD00032,Movement Jackets,Sports,Sportswear,383.97,13.54
+PROD00033,Majority Decor,Sports,Outdoor,249.3,56.08
+PROD00034,Mean Dresses,Sports,Outdoor,440.93,14.3
+PROD00035,Wonder Mobile,Electronics,Mobile,201.63,648.87
+PROD00036,Page Skincare,Electronics,Camera,138.01,423.21
+PROD00037,Family Haircare,Beauty,Haircare,177.06,304.57
+PROD00038,Others Headphones,Beauty,Skincare,357.82,913.57
+PROD00039,Behavior Furniture,Clothing,T-Shirts,279.73,200.87
+PROD00040,Page Fitness,Clothing,Jeans,452.57,395.47
+PROD00041,Early Dresses,Electronics,Camera,303.07,940.91
+PROD00042,Week Sportswear,Electronics,Headphones,249.04,432.84
+PROD00043,Hope T-Shirts,Home & Kitchen,Cookware,393.95,559.15
+PROD00044,Must Dresses,Beauty,Makeup,474.03,89.53
+PROD00045,A Haircare,Beauty,Makeup,181.14,792.26
+PROD00046,Early Makeup,Electronics,Camera,128.69,428.53
+PROD00047,Our T-Shirts,Electronics,Headphones,310.03,802.51
+PROD00048,Five Laptop,Clothing,T-Shirts,251.94,261.26
+PROD00049,Letter Cookware,Electronics,Headphones,494.65,428.25
+PROD00050,Manager Dresses,Beauty,Makeup,233.87,788.68
+PROD00051,Remain Jeans,Electronics,Mobile,41.79,974.14
+PROD00052,Nation Skincare,Sports,Sportswear,488.8,69.03
+PROD00053,Form Sportswear,Beauty,Skincare,422.58,814.33
+PROD00054,Enough Fitness,Home & Kitchen,Furniture,93.23,307.68
+PROD00055,Money Skincare,Sports,Outdoor,452.78,555.24
+PROD00056,What Jeans,Home & Kitchen,Decor,173.63,297.19
+PROD00057,Direction Dresses,Electronics,Headphones,191.67,617.31
+PROD00058,Perhaps Fitness,Clothing,Dresses,453.66,360.26
+PROD00059,Future Laptop,Electronics,Camera,267.41,340.28
+PROD00060,Condition T-Shirts,Beauty,Skincare,73.19,47.56
+PROD00061,Great Furniture,Clothing,T-Shirts,187.68,155.49
+PROD00062,Ground Camera,Home & Kitchen,Appliances,362.44,917.91
+PROD00063,Turn Dresses,Electronics,Headphones,91.22,998.29
+PROD00064,Agree Skincare,Sports,Sportswear,297.16,782.72
+PROD00065,Majority Camera,Clothing,Jackets,349.16,293.94
+PROD00066,Second Appliances,Home & Kitchen,Decor,175.21,408.42
+PROD00067,With Laptop,Beauty,Haircare,348.47,742.11
+PROD00068,Operation Mobile,Sports,Sportswear,442.68,968.83
+PROD00069,Improve Camera,Clothing,Dresses,238.7,460.92
+PROD00070,Computer Headphones,Beauty,Haircare,194.54,831.23
+PROD00071,Pick Headphones,Electronics,Headphones,129.32,975.32
+PROD00072,Keep Makeup,Electronics,Headphones,304.08,874.74
+PROD00073,Race Skincare,Beauty,Haircare,440.53,234.88
+PROD00074,Best T-Shirts,Sports,Sportswear,165.71,17.95
+PROD00075,Best Headphones,Home & Kitchen,Furniture,201.14,497.16
+PROD00076,Other Sportswear,Electronics,Headphones,206.28,536.05
+PROD00077,Leader Makeup,Sports,Outdoor,282.6,209.24
+PROD00078,Growth Headphones,Electronics,Laptop,118.06,291.83
+PROD00079,Its Cookware,Beauty,Makeup,411.99,767.5
+PROD00080,Question Outdoor,Beauty,Skincare,151.32,475.64
+PROD00081,Customer Outdoor,Sports,Sportswear,354.15,324.18
+PROD00082,Million Headphones,Clothing,Dresses,259.04,626.4
+PROD00083,Account Furniture,Beauty,Haircare,295.02,656.23
+PROD00084,Glass Decor,Beauty,Haircare,93.91,771.7
+PROD00085,None Makeup,Sports,Outdoor,368.84,165.14
+PROD00086,Executive Sportswear,Electronics,Mobile,98.37,744.1
+PROD00087,Popular Decor,Clothing,T-Shirts,61.17,603.43
+PROD00088,Then Camera,Beauty,Skincare,275.61,67.0
+PROD00089,Theory Makeup,Home & Kitchen,Furniture,356.1,779.67
+PROD00090,Surface Laptop,Home & Kitchen,Cookware,29.77,389.25
+PROD00091,Walk Appliances,Electronics,Mobile,39.35,337.08
+PROD00092,Mrs Outdoor,Sports,Outdoor,402.33,453.59
+PROD00093,Team Dresses,Sports,Outdoor,405.47,352.71
+PROD00094,Effect Camera,Home & Kitchen,Cookware,126.43,344.9
+PROD00095,Bad Headphones,Home & Kitchen,Decor,309.54,810.0
+PROD00096,Fast Furniture,Beauty,Skincare,224.37,133.26
+PROD00097,Citizen Skincare,Sports,Outdoor,318.18,970.89
+PROD00098,Idea Jeans,Clothing,T-Shirts,432.13,559.38
+PROD00099,Will Jackets,Beauty,Makeup,44.53,191.09
+PROD00100,Throw Outdoor,Beauty,Skincare,390.1,139.9
+PROD00101,Decade Sportswear,Beauty,Makeup,249.05,595.59
+PROD00102,Leg Furniture,Clothing,Jeans,284.24,636.67
+PROD00103,Population Mobile,Home & Kitchen,Furniture,328.7,62.5
+PROD00104,Religious Dresses,Sports,Outdoor,461.7,250.57
+PROD00105,World Decor,Electronics,Mobile,33.08,797.51
+PROD00106,War Camera,Sports,Fitness,19.59,59.13
+PROD00107,Note Haircare,Home & Kitchen,Furniture,93.24,856.54
+PROD00108,Tonight Headphones,Clothing,Dresses,493.29,661.58
+PROD00109,Them Jackets,Home & Kitchen,Decor,358.96,440.08
+PROD00110,School Headphones,Sports,Fitness,309.25,352.97
+PROD00111,Before T-Shirts,Clothing,Jackets,28.28,29.06
+PROD00112,Include Jeans,Clothing,Dresses,440.16,826.96
+PROD00113,New Makeup,Clothing,Jackets,407.31,151.29
+PROD00114,Scene Laptop,Electronics,Camera,334.08,316.45
+PROD00115,Fly Jeans,Beauty,Makeup,172.87,573.42
+PROD00116,Relationship Skincare,Clothing,Dresses,39.9,253.53
+PROD00117,Yeah Sportswear,Clothing,Dresses,292.12,502.17
+PROD00118,Believe Jackets,Clothing,Dresses,361.25,811.25
+PROD00119,Charge Jeans,Home & Kitchen,Cookware,51.65,475.83
+PROD00120,North Sportswear,Home & Kitchen,Furniture,318.71,949.49
+PROD00121,Outside Mobile,Clothing,Jackets,146.75,849.03
+PROD00122,Clear Mobile,Sports,Outdoor,383.3,339.71
+PROD00123,Force Jackets,Home & Kitchen,Furniture,272.11,405.96
+PROD00124,Music Camera,Clothing,T-Shirts,68.87,429.09
+PROD00125,Exist Fitness,Electronics,Camera,265.63,629.92
+PROD00126,All Makeup,Home & Kitchen,Appliances,200.89,293.93
+PROD00127,According Furniture,Beauty,Haircare,94.28,969.56
+PROD00128,Down Outdoor,Home & Kitchen,Furniture,421.55,612.6
+PROD00129,Find Appliances,Sports,Sportswear,10.46,405.41
+PROD00130,Down Sportswear,Home & Kitchen,Decor,159.5,648.56
+PROD00131,Get Makeup,Clothing,Dresses,11.23,401.45
+PROD00132,Force Camera,Sports,Sportswear,52.52,819.62
+PROD00133,Window T-Shirts,Sports,Sportswear,152.06,572.16
+PROD00134,Newspaper Outdoor,Electronics,Camera,31.86,51.55
+PROD00135,Despite Makeup,Sports,Outdoor,300.33,184.99
+PROD00136,Tree Cookware,Home & Kitchen,Cookware,48.0,866.34
+PROD00137,Baby Fitness,Electronics,Headphones,352.35,567.27
+PROD00138,Nice Dresses,Sports,Outdoor,31.06,950.84
+PROD00139,Agreement Makeup,Beauty,Makeup,34.36,81.7
+PROD00140,Crime Outdoor,Home & Kitchen,Appliances,156.14,302.31
+PROD00141,Reveal Skincare,Beauty,Skincare,448.8,201.61
+PROD00142,Along Fitness,Beauty,Makeup,322.49,558.3
+PROD00143,Arrive Headphones,Beauty,Makeup,386.21,388.96
+PROD00144,Paper Skincare,Sports,Fitness,75.07,165.7
+PROD00145,Final Fitness,Clothing,T-Shirts,417.89,646.32
+PROD00146,Guy T-Shirts,Sports,Sportswear,9.03,540.94
+PROD00147,Tend Camera,Electronics,Mobile,110.46,281.99
+PROD00148,Fall Dresses,Home & Kitchen,Decor,309.97,484.97
+PROD00149,Wrong Makeup,Sports,Sportswear,190.75,748.28
+PROD00150,Interview Haircare,Home & Kitchen,Appliances,492.18,213.22
+PROD00151,Position Mobile,Beauty,Skincare,20.02,299.98
+PROD00152,Young Skincare,Beauty,Skincare,499.31,352.65
+PROD00153,State Laptop,Electronics,Camera,313.7,749.26
+PROD00154,Someone Jackets,Clothing,Dresses,281.56,848.45
+PROD00155,Do T-Shirts,Home & Kitchen,Appliances,34.46,382.62
+PROD00156,Deal Jackets,Beauty,Skincare,140.3,303.65
+PROD00157,Generation Mobile,Electronics,Headphones,462.71,890.55
+PROD00158,Agent Dresses,Sports,Sportswear,180.35,999.37
+PROD00159,Knowledge Makeup,Electronics,Laptop,332.52,673.65
+PROD00160,Any Jeans,Electronics,Camera,499.75,990.08
+PROD00161,In Appliances,Electronics,Camera,135.22,663.37
+PROD00162,Name Camera,Beauty,Skincare,290.16,736.13
+PROD00163,Risk Laptop,Sports,Sportswear,349.74,394.77
+PROD00164,Effort Outdoor,Beauty,Haircare,86.49,438.64
+PROD00165,Laugh Fitness,Sports,Sportswear,78.59,152.69
+PROD00166,Hot Makeup,Sports,Sportswear,230.87,824.52
+PROD00167,Local Haircare,Electronics,Headphones,195.98,931.75
+PROD00168,Summer Furniture,Home & Kitchen,Furniture,358.54,627.2
+PROD00169,Action T-Shirts,Sports,Fitness,39.41,350.21
+PROD00170,Door Furniture,Home & Kitchen,Furniture,486.22,162.48
+PROD00171,Decade Laptop,Clothing,Dresses,12.07,272.5
+PROD00172,Increase Makeup,Beauty,Makeup,302.65,262.86
+PROD00173,Month Jeans,Sports,Sportswear,283.5,617.39
+PROD00174,Value Furniture,Beauty,Makeup,71.68,945.59
+PROD00175,Hotel Dresses,Electronics,Camera,79.7,57.79
+PROD00176,Public Sportswear,Clothing,T-Shirts,397.38,11.01
+PROD00177,Expect Sportswear,Beauty,Makeup,444.34,604.18
+PROD00178,Her Sportswear,Beauty,Makeup,145.09,291.22
+PROD00179,Better Makeup,Electronics,Camera,221.79,881.74
+PROD00180,Stuff Mobile,Sports,Fitness,180.72,333.98
+PROD00181,Walk Mobile,Beauty,Skincare,40.91,296.84
+PROD00182,Way Skincare,Electronics,Headphones,338.24,276.82
+PROD00183,Politics T-Shirts,Electronics,Camera,413.47,153.4
+PROD00184,Face Laptop,Beauty,Haircare,155.92,585.72
+PROD00185,Front Sportswear,Beauty,Skincare,495.14,176.53
+PROD00186,Speech T-Shirts,Sports,Outdoor,42.55,430.38
+PROD00187,Shake Laptop,Beauty,Makeup,332.59,466.36
+PROD00188,Like Jeans,Beauty,Makeup,226.87,30.29
+PROD00189,See Jeans,Sports,Outdoor,226.07,26.64
+PROD00190,Mean Haircare,Sports,Sportswear,231.53,525.01
+PROD00191,Realize Furniture,Beauty,Haircare,133.05,699.07
+PROD00192,Former Fitness,Beauty,Haircare,359.2,942.72
+PROD00193,Indicate T-Shirts,Electronics,Camera,362.18,187.33
+PROD00194,Capital Laptop,Beauty,Makeup,144.79,112.23
+PROD00195,Claim Makeup,Home & Kitchen,Cookware,418.48,61.57
+PROD00196,Particularly T-Shirts,Sports,Sportswear,161.84,441.68
+PROD00197,Idea Decor,Beauty,Makeup,363.92,626.92
+PROD00198,Because Furniture,Sports,Sportswear,64.89,842.15
+PROD00199,Later Furniture,Sports,Sportswear,88.51,685.82
+PROD00200,Trip Laptop,Beauty,Haircare,161.32,216.28
+PROD00201,Fact Dresses,Electronics,Headphones,298.97,467.15
+PROD00202,Before Laptop,Beauty,Haircare,324.53,911.24
+PROD00203,Draw Furniture,Electronics,Mobile,201.2,333.47
+PROD00204,Drive Dresses,Clothing,Jeans,43.53,503.74
+PROD00205,Surface Mobile,Electronics,Camera,189.95,958.98
+PROD00206,Both Haircare,Sports,Sportswear,345.94,737.36
+PROD00207,If T-Shirts,Home & Kitchen,Furniture,337.14,750.26
+PROD00208,Sing Dresses,Home & Kitchen,Appliances,84.3,259.81
+PROD00209,Success Outdoor,Electronics,Laptop,8.85,420.55
+PROD00210,Think Sportswear,Electronics,Laptop,377.73,91.52
+PROD00211,Skin Skincare,Beauty,Makeup,57.65,610.46
+PROD00212,Will Outdoor,Home & Kitchen,Furniture,45.76,112.69
+PROD00213,My Outdoor,Clothing,Dresses,6.34,837.55
+PROD00214,Involve T-Shirts,Clothing,Jackets,219.14,816.41
+PROD00215,Pull Makeup,Sports,Fitness,254.12,538.27
+PROD00216,Imagine Appliances,Clothing,T-Shirts,320.64,149.75
+PROD00217,Quite Furniture,Beauty,Skincare,151.55,35.32
+PROD00218,Probably Laptop,Beauty,Haircare,356.66,798.74
+PROD00219,Prepare Laptop,Beauty,Makeup,88.82,604.14
+PROD00220,Night Dresses,Clothing,Jeans,416.84,713.82
+PROD00221,Relationship T-Shirts,Clothing,Dresses,288.06,310.77
+PROD00222,West Cookware,Home & Kitchen,Furniture,294.03,514.39
+PROD00223,Alone Sportswear,Clothing,Jeans,108.84,749.7
+PROD00224,Few Fitness,Electronics,Mobile,41.68,467.94
+PROD00225,Buy Fitness,Home & Kitchen,Decor,235.04,605.37
+PROD00226,Edge Headphones,Clothing,Jackets,309.73,791.83
+PROD00227,Person Makeup,Clothing,Jackets,52.05,223.07
+PROD00228,Involve Dresses,Sports,Outdoor,475.51,75.27
+PROD00229,Sister Laptop,Home & Kitchen,Decor,490.31,536.51
+PROD00230,Make Makeup,Clothing,Jackets,275.0,71.5
+PROD00231,Even Skincare,Beauty,Makeup,475.28,768.89
+PROD00232,Every Haircare,Electronics,Camera,93.83,722.02
+PROD00233,Produce Laptop,Clothing,T-Shirts,17.58,882.9
+PROD00234,Eye Outdoor,Electronics,Camera,24.51,643.17
+PROD00235,Very Jeans,Beauty,Skincare,295.82,76.53
+PROD00236,Hotel Jackets,Clothing,Jackets,35.51,260.62
+PROD00237,Live Haircare,Clothing,T-Shirts,479.48,809.85
+PROD00238,Where Outdoor,Sports,Outdoor,75.26,175.46
+PROD00239,Foot Headphones,Clothing,T-Shirts,155.84,701.5
+PROD00240,Its Sportswear,Beauty,Makeup,412.15,782.46
+PROD00241,Radio Camera,Electronics,Mobile,113.28,336.81
+PROD00242,During Jackets,Home & Kitchen,Decor,125.27,329.07
+PROD00243,Talk Skincare,Electronics,Laptop,322.94,562.22
+PROD00244,Leader Dresses,Electronics,Mobile,141.66,862.67
+PROD00245,Carry Dresses,Beauty,Haircare,112.64,231.67
+PROD00246,Later Camera,Electronics,Laptop,130.82,941.85
+PROD00247,Baby Haircare,Home & Kitchen,Furniture,247.87,603.13
+PROD00248,Sit Fitness,Sports,Sportswear,483.22,992.21
+PROD00249,Way Appliances,Beauty,Haircare,416.96,98.72
+PROD00250,Election Headphones,Beauty,Makeup,145.88,135.3
+PROD00251,Job Camera,Beauty,Makeup,184.87,828.38
+PROD00252,Science Jackets,Home & Kitchen,Furniture,234.93,866.11
+PROD00253,Religious Sportswear,Electronics,Camera,489.57,451.0
+PROD00254,Necessary Dresses,Beauty,Makeup,90.33,716.93
+PROD00255,Play Mobile,Electronics,Headphones,181.95,868.88
+PROD00256,Cold Haircare,Clothing,Jeans,366.07,52.7
+PROD00257,Notice Laptop,Home & Kitchen,Furniture,482.15,578.21
+PROD00258,Drop Dresses,Electronics,Laptop,82.06,854.95
+PROD00259,Carry Jeans,Sports,Outdoor,117.55,404.17
+PROD00260,Say Makeup,Electronics,Camera,116.72,309.36
+PROD00261,Back Sportswear,Home & Kitchen,Furniture,15.36,797.75
+PROD00262,Explain Decor,Home & Kitchen,Appliances,304.04,342.43
+PROD00263,Remember Fitness,Sports,Outdoor,337.0,13.14
+PROD00264,While Fitness,Electronics,Headphones,303.25,959.98
+PROD00265,Take Sportswear,Electronics,Headphones,40.3,596.2
+PROD00266,Play Laptop,Electronics,Headphones,39.27,821.32
+PROD00267,Against T-Shirts,Clothing,T-Shirts,109.14,827.05
+PROD00268,Other Jackets,Clothing,Jeans,148.7,75.75
+PROD00269,Mean T-Shirts,Beauty,Skincare,394.34,179.15
+PROD00270,Travel Makeup,Clothing,Jeans,83.9,318.01
+PROD00271,Buy Haircare,Electronics,Headphones,26.83,327.49
+PROD00272,Tell Skincare,Clothing,Jeans,200.02,662.2
+PROD00273,Those Camera,Beauty,Skincare,211.11,626.9
+PROD00274,Audience Skincare,Home & Kitchen,Furniture,228.2,499.64
+PROD00275,Might Skincare,Clothing,Jackets,414.32,219.15
+PROD00276,Seem Jeans,Electronics,Camera,53.51,388.16
+PROD00277,Agreement Skincare,Clothing,Jackets,353.45,548.16
+PROD00278,Financial Dresses,Electronics,Mobile,172.28,473.31
+PROD00279,Goal Furniture,Sports,Outdoor,158.44,136.02
+PROD00280,Small Headphones,Home & Kitchen,Decor,466.61,653.02
+PROD00281,Easy T-Shirts,Home & Kitchen,Decor,127.99,82.32
+PROD00282,Area Furniture,Sports,Fitness,323.05,384.41
+PROD00283,Write Fitness,Electronics,Mobile,141.19,712.93
+PROD00284,West Furniture,Home & Kitchen,Decor,256.04,29.82
+PROD00285,Rather Jeans,Clothing,Dresses,394.21,574.28
+PROD00286,Here Makeup,Electronics,Mobile,441.45,341.18
+PROD00287,Yourself T-Shirts,Sports,Sportswear,420.16,18.74
+PROD00288,Customer Skincare,Home & Kitchen,Furniture,293.18,198.48
+PROD00289,Door Makeup,Home & Kitchen,Appliances,128.16,941.54
+PROD00290,Add Decor,Home & Kitchen,Appliances,332.31,525.94
+PROD00291,Age Jeans,Home & Kitchen,Appliances,356.4,997.25
+PROD00292,Long Headphones,Home & Kitchen,Cookware,10.29,529.57
+PROD00293,Agreement Furniture,Home & Kitchen,Cookware,222.41,548.5
+PROD00294,Beautiful Mobile,Clothing,Jeans,422.41,397.92
+PROD00295,Everything Makeup,Electronics,Headphones,247.35,316.94
+PROD00296,Responsibility Appliances,Beauty,Haircare,159.13,259.03
+PROD00297,Air Outdoor,Electronics,Camera,436.54,349.99
+PROD00298,Else Cookware,Beauty,Makeup,82.16,465.25
+PROD00299,Today Makeup,Clothing,Jackets,107.19,200.07
+PROD00300,Stay Headphones,Sports,Outdoor,345.25,232.63
+PROD00301,Gun Laptop,Electronics,Laptop,179.46,278.83
+PROD00302,Perform Cookware,Clothing,T-Shirts,357.94,454.77
+PROD00303,Reveal Cookware,Home & Kitchen,Decor,83.06,656.29
+PROD00304,Test Laptop,Beauty,Makeup,129.87,857.58
+PROD00305,Black Furniture,Home & Kitchen,Cookware,82.54,294.26
+PROD00306,Already Furniture,Electronics,Headphones,476.69,191.89
+PROD00307,Stand Fitness,Home & Kitchen,Decor,205.67,385.06
+PROD00308,Reason Laptop,Beauty,Makeup,171.92,895.44
+PROD00309,From Outdoor,Sports,Fitness,12.03,19.76
+PROD00310,Study Sportswear,Clothing,T-Shirts,80.94,681.09
+PROD00311,Free Appliances,Beauty,Makeup,213.46,482.39
+PROD00312,Notice Dresses,Sports,Fitness,38.91,169.44
+PROD00313,Nation Outdoor,Sports,Sportswear,257.82,327.81
+PROD00314,Face Dresses,Clothing,T-Shirts,230.23,232.7
+PROD00315,Project Furniture,Beauty,Haircare,384.75,879.05
+PROD00316,Indeed Headphones,Home & Kitchen,Furniture,331.6,487.05
+PROD00317,Either Sportswear,Home & Kitchen,Furniture,225.74,567.46
+PROD00318,One Dresses,Home & Kitchen,Furniture,116.21,597.75
+PROD00319,Great Appliances,Clothing,T-Shirts,364.8,643.22
+PROD00320,Join Jackets,Beauty,Haircare,355.39,500.6
+PROD00321,Treat Skincare,Home & Kitchen,Furniture,80.88,27.69
+PROD00322,Authority Outdoor,Clothing,Jackets,457.8,341.38
+PROD00323,Adult Furniture,Home & Kitchen,Appliances,36.88,192.03
+PROD00324,Magazine Dresses,Electronics,Headphones,32.24,683.34
+PROD00325,Everyone Makeup,Clothing,Dresses,97.74,66.14
+PROD00326,Size Laptop,Sports,Sportswear,455.18,568.17
+PROD00327,Hot Mobile,Sports,Sportswear,262.4,218.53
+PROD00328,Themselves Jeans,Clothing,T-Shirts,395.03,949.36
+PROD00329,Voice Cookware,Clothing,Jeans,117.78,342.19
+PROD00330,Prove Decor,Clothing,Dresses,247.66,331.97
+PROD00331,Major Appliances,Home & Kitchen,Furniture,182.35,924.15
+PROD00332,Six Decor,Sports,Outdoor,414.78,423.17
+PROD00333,Rule Jeans,Clothing,Jeans,16.19,963.23
+PROD00334,Radio Jeans,Sports,Sportswear,125.7,33.93
+PROD00335,First Cookware,Electronics,Camera,80.52,313.28
+PROD00336,Throughout Sportswear,Sports,Outdoor,430.3,669.53
+PROD00337,Floor Makeup,Home & Kitchen,Furniture,236.43,891.95
+PROD00338,Often Laptop,Electronics,Laptop,205.09,263.84
+PROD00339,Family Mobile,Clothing,T-Shirts,227.49,931.17
+PROD00340,Pass Appliances,Home & Kitchen,Cookware,486.1,598.18
+PROD00341,Choose Fitness,Beauty,Skincare,425.88,803.0
+PROD00342,Tax Skincare,Sports,Fitness,354.65,403.24
+PROD00343,Event Camera,Clothing,T-Shirts,148.79,220.06
+PROD00344,Nature Makeup,Sports,Fitness,86.76,912.12
+PROD00345,Rather Furniture,Sports,Outdoor,461.11,933.8
+PROD00346,Draw Laptop,Home & Kitchen,Decor,214.42,502.6
+PROD00347,Your Furniture,Electronics,Headphones,142.98,16.43
+PROD00348,Case Mobile,Electronics,Laptop,238.11,118.69
+PROD00349,Relationship Appliances,Sports,Outdoor,459.33,577.3
+PROD00350,Difference Haircare,Electronics,Laptop,196.6,33.54
+PROD00351,Indeed Camera,Electronics,Mobile,283.51,402.94
+PROD00352,Institution Dresses,Clothing,Jeans,402.47,310.34
+PROD00353,Area Fitness,Beauty,Skincare,216.43,717.2
+PROD00354,The Jeans,Electronics,Camera,120.6,65.02
+PROD00355,Response Laptop,Electronics,Laptop,497.29,493.84
+PROD00356,National Outdoor,Electronics,Laptop,478.5,583.32
+PROD00357,According Furniture,Sports,Outdoor,422.52,621.12
+PROD00358,Read Dresses,Electronics,Camera,345.75,411.11
+PROD00359,Large T-Shirts,Clothing,Jeans,150.96,311.32
+PROD00360,Leader Camera,Home & Kitchen,Decor,457.14,685.67
+PROD00361,Ago Laptop,Clothing,T-Shirts,141.4,849.09
+PROD00362,Purpose Fitness,Home & Kitchen,Decor,401.4,696.68
+PROD00363,Part Dresses,Beauty,Makeup,459.54,932.78
+PROD00364,Establish Cookware,Beauty,Skincare,303.49,720.09
+PROD00365,Try Mobile,Beauty,Makeup,402.51,766.97
+PROD00366,Rather Furniture,Home & Kitchen,Decor,396.89,176.22
+PROD00367,Positive T-Shirts,Electronics,Camera,100.61,425.34
+PROD00368,Energy Mobile,Home & Kitchen,Furniture,335.62,490.2
+PROD00369,Learn Makeup,Beauty,Skincare,51.27,263.73
+PROD00370,Minute Sportswear,Home & Kitchen,Appliances,256.39,533.25
+PROD00371,Join Sportswear,Electronics,Mobile,85.31,297.88
+PROD00372,He Fitness,Clothing,T-Shirts,211.09,690.63
+PROD00373,Majority Sportswear,Beauty,Skincare,417.33,475.59
+PROD00374,Doctor Skincare,Beauty,Skincare,493.65,464.22
+PROD00375,Risk Sportswear,Clothing,T-Shirts,162.39,983.81
+PROD00376,Hour T-Shirts,Sports,Fitness,268.32,398.52
+PROD00377,Economy Furniture,Home & Kitchen,Cookware,258.09,368.67
+PROD00378,Best Dresses,Clothing,Jackets,477.43,325.42
+PROD00379,Wait T-Shirts,Sports,Sportswear,241.9,895.8
+PROD00380,Cold Makeup,Sports,Fitness,351.06,501.76
+PROD00381,Myself Appliances,Home & Kitchen,Furniture,461.29,604.01
+PROD00382,Education Mobile,Electronics,Headphones,189.82,189.01
+PROD00383,Less Furniture,Sports,Sportswear,451.55,545.53
+PROD00384,Again Camera,Electronics,Laptop,459.14,281.9
+PROD00385,Our Jeans,Electronics,Mobile,465.68,733.33
+PROD00386,Benefit Cookware,Electronics,Camera,138.87,834.2
+PROD00387,Executive Haircare,Beauty,Skincare,203.18,717.66
+PROD00388,We Haircare,Electronics,Mobile,435.85,732.94
+PROD00389,Expect Camera,Beauty,Makeup,182.79,517.35
+PROD00390,Center Furniture,Clothing,Dresses,302.13,715.0
+PROD00391,Miss T-Shirts,Beauty,Makeup,63.44,428.46
+PROD00392,Room Skincare,Electronics,Laptop,32.86,654.97
+PROD00393,Nearly Camera,Electronics,Headphones,208.94,266.45
+PROD00394,Camera Outdoor,Beauty,Makeup,291.56,79.06
+PROD00395,Possible Furniture,Home & Kitchen,Cookware,199.39,419.34
+PROD00396,Fear Camera,Clothing,Jeans,290.98,467.16
+PROD00397,Good Skincare,Beauty,Makeup,259.97,263.84
+PROD00398,Quickly Dresses,Clothing,Dresses,344.43,730.43
+PROD00399,Suggest Makeup,Home & Kitchen,Furniture,326.52,82.81
+PROD00400,Affect Jeans,Beauty,Skincare,215.0,230.52
+PROD00401,While Headphones,Home & Kitchen,Appliances,215.37,751.08
+PROD00402,Feeling Dresses,Beauty,Skincare,74.69,442.75
+PROD00403,Exist Haircare,Sports,Fitness,259.05,708.23
+PROD00404,Relate Sportswear,Beauty,Skincare,295.65,571.81
+PROD00405,Wish Decor,Electronics,Laptop,240.86,951.21
+PROD00406,Some Outdoor,Beauty,Makeup,166.23,601.82
+PROD00407,Democratic Outdoor,Sports,Outdoor,362.22,24.72
+PROD00408,Law Furniture,Electronics,Headphones,41.96,359.35
+PROD00409,Scientist Skincare,Clothing,T-Shirts,457.65,151.63
+PROD00410,Blood Jeans,Sports,Fitness,15.22,925.39
+PROD00411,Enter Cookware,Beauty,Makeup,481.36,112.97
+PROD00412,Key Makeup,Electronics,Mobile,233.87,393.83
+PROD00413,Page Outdoor,Clothing,Dresses,209.27,233.84
+PROD00414,Even Skincare,Home & Kitchen,Cookware,131.94,848.25
+PROD00415,Course Makeup,Clothing,Jeans,9.99,315.48
+PROD00416,Campaign Headphones,Beauty,Haircare,141.02,991.97
+PROD00417,Degree Fitness,Clothing,Dresses,59.15,48.23
+PROD00418,Environment Camera,Beauty,Makeup,331.61,136.99
+PROD00419,Serve Camera,Electronics,Laptop,162.94,232.39
+PROD00420,Produce Mobile,Sports,Sportswear,384.75,812.99
+PROD00421,Argue Furniture,Sports,Sportswear,107.42,879.73
+PROD00422,Decide Fitness,Clothing,T-Shirts,450.62,80.74
+PROD00423,Police Mobile,Clothing,Dresses,263.88,42.14
+PROD00424,Machine Skincare,Clothing,Dresses,61.68,747.11
+PROD00425,House Haircare,Beauty,Skincare,203.42,142.02
+PROD00426,Sound Headphones,Home & Kitchen,Decor,107.35,141.67
+PROD00427,Night T-Shirts,Sports,Outdoor,103.84,32.14
+PROD00428,Tree Outdoor,Clothing,Jackets,255.65,59.31
+PROD00429,Travel Skincare,Sports,Outdoor,337.59,271.04
+PROD00430,Year Sportswear,Beauty,Skincare,456.25,74.36
+PROD00431,Fly Makeup,Electronics,Laptop,253.57,375.19
+PROD00432,Morning Headphones,Clothing,Dresses,483.09,834.45
+PROD00433,Hospital Dresses,Clothing,T-Shirts,471.11,333.06
+PROD00434,Run Furniture,Home & Kitchen,Decor,433.21,730.56
+PROD00435,However Sportswear,Clothing,T-Shirts,252.49,102.97
+PROD00436,Democrat Appliances,Electronics,Camera,74.75,662.78
+PROD00437,Need Jeans,Home & Kitchen,Appliances,112.86,323.58
+PROD00438,Wear Makeup,Home & Kitchen,Furniture,325.6,752.26
+PROD00439,Fill Sportswear,Clothing,T-Shirts,213.77,144.89
+PROD00440,Attorney Mobile,Clothing,Dresses,77.67,898.9
+PROD00441,Policy Skincare,Sports,Sportswear,242.1,250.15
+PROD00442,Large Jackets,Beauty,Makeup,13.63,359.61
+PROD00443,Together Dresses,Beauty,Skincare,368.28,950.68
+PROD00444,Along Mobile,Beauty,Haircare,41.42,582.7
+PROD00445,During Skincare,Beauty,Skincare,316.41,372.11
+PROD00446,Step Decor,Electronics,Mobile,397.54,950.11
+PROD00447,Street Fitness,Electronics,Laptop,70.66,335.79
+PROD00448,Care Camera,Home & Kitchen,Decor,261.73,103.92
+PROD00449,Local Laptop,Beauty,Makeup,390.64,996.88
+PROD00450,Religious Sportswear,Electronics,Headphones,134.01,275.17
+PROD00451,Realize Laptop,Beauty,Haircare,85.64,852.75
+PROD00452,Defense Mobile,Sports,Sportswear,171.73,173.89
+PROD00453,Special Skincare,Sports,Sportswear,279.58,734.04
+PROD00454,Probably Sportswear,Electronics,Laptop,289.76,529.2
+PROD00455,Ok Headphones,Sports,Sportswear,69.78,981.1
+PROD00456,Election Furniture,Clothing,Jackets,231.5,557.3
+PROD00457,How Haircare,Beauty,Haircare,137.8,34.77
+PROD00458,Television Sportswear,Electronics,Laptop,421.8,607.84
+PROD00459,Body Camera,Beauty,Skincare,160.22,153.86
+PROD00460,Learn Haircare,Electronics,Mobile,420.16,800.56
+PROD00461,Ready Laptop,Sports,Sportswear,217.14,858.0
+PROD00462,Out Dresses,Beauty,Haircare,364.66,487.27
+PROD00463,Boy Skincare,Sports,Sportswear,257.48,785.39
+PROD00464,Travel Appliances,Electronics,Headphones,312.87,153.66
+PROD00465,Subject Dresses,Clothing,Jackets,200.7,497.16
+PROD00466,Particularly Headphones,Sports,Sportswear,385.26,400.0
+PROD00467,Environment Camera,Home & Kitchen,Furniture,215.47,615.2
+PROD00468,Kind Furniture,Clothing,Jackets,231.44,54.03
+PROD00469,Language Sportswear,Electronics,Laptop,261.25,754.6
+PROD00470,Side Camera,Clothing,Jackets,416.75,88.34
+PROD00471,Stay Furniture,Beauty,Haircare,331.39,659.91
+PROD00472,And Headphones,Home & Kitchen,Cookware,177.83,28.27
+PROD00473,Turn Furniture,Sports,Fitness,336.81,833.57
+PROD00474,Well Appliances,Electronics,Camera,323.0,182.95
+PROD00475,Whose T-Shirts,Electronics,Laptop,465.85,520.34
+PROD00476,Step Outdoor,Sports,Outdoor,421.5,268.88
+PROD00477,Scientist Camera,Beauty,Haircare,325.49,725.42
+PROD00478,Religious Jeans,Beauty,Skincare,174.05,328.14
+PROD00479,Whom Mobile,Electronics,Camera,390.89,727.36
+PROD00480,Bring Camera,Sports,Sportswear,289.73,292.02
+PROD00481,Both Dresses,Electronics,Headphones,492.71,754.95
+PROD00482,Significant Headphones,Beauty,Haircare,127.52,40.3
+PROD00483,Evidence Headphones,Electronics,Camera,44.43,290.48
+PROD00484,Month Furniture,Electronics,Laptop,39.6,503.65
+PROD00485,Full Mobile,Sports,Outdoor,321.82,54.61
+PROD00486,Recently Camera,Beauty,Makeup,469.93,194.17
+PROD00487,Program Makeup,Home & Kitchen,Appliances,5.96,935.19
+PROD00488,Provide Laptop,Clothing,Dresses,364.26,977.07
+PROD00489,Shoulder T-Shirts,Clothing,T-Shirts,330.25,742.35
+PROD00490,Under Skincare,Sports,Sportswear,367.49,259.68
+PROD00491,Movie Mobile,Home & Kitchen,Appliances,180.93,267.91
+PROD00492,Mother Furniture,Electronics,Headphones,411.15,649.33
+PROD00493,Meet Mobile,Beauty,Skincare,27.13,126.42
+PROD00494,Stop Haircare,Sports,Sportswear,378.94,948.83
+PROD00495,Operation T-Shirts,Electronics,Camera,137.2,232.56
+PROD00496,Quality Outdoor,Electronics,Mobile,241.03,999.64
+PROD00497,Situation Mobile,Clothing,Dresses,412.2,500.78
+PROD00498,Guess Jeans,Clothing,Dresses,139.32,773.72
+PROD00499,Floor Makeup,Home & Kitchen,Furniture,96.68,12.16
+PROD00500,Number T-Shirts,Sports,Fitness,342.25,889.86
+PROD00501,Matter Cookware,Sports,Outdoor,269.03,277.3
+PROD00502,Indeed Headphones,Beauty,Skincare,259.63,671.26
+PROD00503,Reason Mobile,Clothing,Jeans,132.1,808.29
+PROD00504,Camera Fitness,Electronics,Headphones,22.27,172.51
+PROD00505,One Fitness,Electronics,Mobile,208.08,448.08
+PROD00506,Nothing Skincare,Sports,Sportswear,57.75,498.9
+PROD00507,Must Furniture,Clothing,Dresses,453.46,319.0
+PROD00508,Carry Jeans,Electronics,Headphones,25.42,486.94
+PROD00509,Month Furniture,Beauty,Skincare,218.67,324.37
+PROD00510,Get Cookware,Home & Kitchen,Decor,30.86,367.14
+PROD00511,Activity Camera,Electronics,Mobile,52.29,672.64
+PROD00512,Left Furniture,Sports,Fitness,331.14,636.27
+PROD00513,Relationship Appliances,Beauty,Haircare,325.32,239.94
+PROD00514,Notice Appliances,Electronics,Laptop,21.36,898.51
+PROD00515,Another T-Shirts,Beauty,Haircare,5.56,864.16
+PROD00516,Most Decor,Electronics,Headphones,44.01,513.99
+PROD00517,Avoid Makeup,Clothing,T-Shirts,382.68,438.92
+PROD00518,Politics Sportswear,Sports,Fitness,294.37,383.09
+PROD00519,Involve Jeans,Beauty,Skincare,23.87,710.2
+PROD00520,Me Outdoor,Home & Kitchen,Furniture,246.61,674.95
+PROD00521,Because Jeans,Clothing,Dresses,357.45,204.22
+PROD00522,Design Makeup,Sports,Outdoor,435.13,674.74
+PROD00523,Body Camera,Beauty,Makeup,467.35,259.91
+PROD00524,Result Furniture,Beauty,Haircare,167.08,28.37
+PROD00525,Yes Laptop,Electronics,Mobile,72.24,702.22
+PROD00526,Coach Sportswear,Home & Kitchen,Appliances,122.28,648.35
+PROD00527,Those Headphones,Clothing,T-Shirts,389.2,416.7
+PROD00528,Add Makeup,Electronics,Headphones,485.88,530.43
+PROD00529,Happy Camera,Clothing,Jeans,235.86,947.7
+PROD00530,Hand Headphones,Electronics,Headphones,156.15,599.25
+PROD00531,Back Mobile,Clothing,T-Shirts,217.45,661.31
+PROD00532,These Outdoor,Electronics,Camera,155.88,73.27
+PROD00533,Claim Cookware,Electronics,Headphones,131.96,174.33
+PROD00534,Whole Cookware,Home & Kitchen,Cookware,298.91,307.94
+PROD00535,Song Outdoor,Beauty,Skincare,12.79,543.99
+PROD00536,Candidate Makeup,Sports,Fitness,133.48,778.82
+PROD00537,Tree Makeup,Beauty,Makeup,332.38,328.03
+PROD00538,Collection Haircare,Clothing,T-Shirts,20.87,362.82
+PROD00539,Simple Jeans,Home & Kitchen,Appliances,46.18,263.59
+PROD00540,Hair Jackets,Beauty,Haircare,150.23,262.06
+PROD00541,Act Skincare,Electronics,Laptop,439.51,949.38
+PROD00542,Gun Camera,Home & Kitchen,Decor,383.62,639.1
+PROD00543,Another Headphones,Beauty,Makeup,15.97,164.34
+PROD00544,Board Mobile,Sports,Outdoor,253.35,725.03
+PROD00545,Water Dresses,Clothing,Jackets,140.97,724.8
+PROD00546,Three Jeans,Clothing,Jackets,326.08,669.81
+PROD00547,Go Haircare,Electronics,Camera,362.17,143.37
+PROD00548,Opportunity Furniture,Beauty,Makeup,432.12,413.91
+PROD00549,Far Outdoor,Beauty,Makeup,240.33,115.69
+PROD00550,Assume Laptop,Clothing,Jackets,497.25,818.45
+PROD00551,Information Laptop,Home & Kitchen,Appliances,490.09,658.62
+PROD00552,Prove Furniture,Sports,Sportswear,441.67,512.13
+PROD00553,But Sportswear,Electronics,Mobile,289.56,349.59
+PROD00554,Collection Jackets,Home & Kitchen,Decor,202.01,192.41
+PROD00555,Career Camera,Clothing,Dresses,185.37,115.38
+PROD00556,Green Laptop,Beauty,Skincare,11.0,969.55
+PROD00557,Region Jeans,Beauty,Haircare,128.34,207.65
+PROD00558,Always Camera,Electronics,Camera,360.81,69.28
+PROD00559,Point Laptop,Electronics,Camera,303.8,962.05
+PROD00560,Once Outdoor,Home & Kitchen,Decor,458.63,553.46
+PROD00561,Child Laptop,Beauty,Makeup,29.76,798.69
+PROD00562,Add Appliances,Beauty,Haircare,81.86,53.33
+PROD00563,Bill Jeans,Home & Kitchen,Appliances,395.68,571.28
+PROD00564,Themselves Laptop,Electronics,Headphones,182.46,404.23
+PROD00565,Something Cookware,Sports,Outdoor,63.58,774.24
+PROD00566,Describe Decor,Home & Kitchen,Cookware,498.24,48.04
+PROD00567,Evidence Sportswear,Home & Kitchen,Furniture,394.69,407.67
+PROD00568,Bring Haircare,Electronics,Camera,207.33,801.08
+PROD00569,Two Dresses,Electronics,Laptop,412.56,527.47
+PROD00570,Individual Furniture,Sports,Fitness,341.9,554.54
+PROD00571,Next Camera,Sports,Sportswear,396.04,106.19
+PROD00572,Company Sportswear,Home & Kitchen,Furniture,408.53,141.01
+PROD00573,Short Camera,Beauty,Haircare,46.94,680.23
+PROD00574,Finally Fitness,Sports,Outdoor,313.37,678.3
+PROD00575,Owner Furniture,Home & Kitchen,Cookware,8.36,979.31
+PROD00576,Nature Camera,Clothing,Jeans,26.51,714.83
+PROD00577,Brother T-Shirts,Home & Kitchen,Furniture,452.47,498.31
+PROD00578,Recognize Outdoor,Beauty,Skincare,266.14,858.75
+PROD00579,Physical Mobile,Clothing,Dresses,369.27,113.43
+PROD00580,Three Skincare,Clothing,Jeans,420.06,454.8
+PROD00581,Left Furniture,Home & Kitchen,Appliances,475.05,294.24
+PROD00582,First Appliances,Electronics,Camera,435.33,113.59
+PROD00583,White T-Shirts,Beauty,Haircare,244.24,765.87
+PROD00584,Player Camera,Electronics,Laptop,171.31,515.68
+PROD00585,Kind Headphones,Clothing,Dresses,81.47,561.2
+PROD00586,Range Makeup,Sports,Sportswear,203.16,417.14
+PROD00587,Toward Laptop,Beauty,Makeup,186.41,465.73
+PROD00588,Million Haircare,Clothing,Jeans,281.99,124.86
+PROD00589,Know Dresses,Clothing,Dresses,334.43,676.19
+PROD00590,Hundred Dresses,Clothing,T-Shirts,489.27,438.12
+PROD00591,Thus Cookware,Clothing,Dresses,365.55,818.6
+PROD00592,Author Appliances,Sports,Fitness,323.66,204.32
+PROD00593,Picture Mobile,Clothing,Dresses,170.87,213.0
+PROD00594,Should Makeup,Home & Kitchen,Furniture,22.08,649.3
+PROD00595,Book Mobile,Beauty,Makeup,147.62,847.54
+PROD00596,Industry Skincare,Clothing,Dresses,385.38,477.48
+PROD00597,Yet Mobile,Sports,Outdoor,106.61,729.68
+PROD00598,Away Jeans,Sports,Sportswear,357.53,999.34
+PROD00599,Pick Fitness,Home & Kitchen,Furniture,291.99,990.36
+PROD00600,According Makeup,Electronics,Camera,90.07,746.89
+PROD00601,Box Skincare,Electronics,Camera,134.5,742.19
+PROD00602,Benefit Skincare,Electronics,Mobile,250.67,255.14
+PROD00603,Standard Cookware,Home & Kitchen,Furniture,212.1,835.2
+PROD00604,Lawyer Sportswear,Clothing,Dresses,390.39,411.05
+PROD00605,He Makeup,Clothing,Jackets,368.53,962.37
+PROD00606,Quality Headphones,Clothing,Jeans,289.41,90.61
+PROD00607,Middle Mobile,Electronics,Mobile,412.03,441.48
+PROD00608,Article T-Shirts,Beauty,Makeup,283.52,560.28
+PROD00609,Figure Camera,Electronics,Laptop,482.37,411.1
+PROD00610,Key Makeup,Electronics,Mobile,112.53,218.47
+PROD00611,Because Makeup,Beauty,Makeup,358.5,597.06
+PROD00612,Store Jeans,Clothing,Dresses,188.12,758.36
+PROD00613,Fall Outdoor,Clothing,Jeans,143.09,648.39
+PROD00614,History Headphones,Sports,Outdoor,94.29,242.1
+PROD00615,Property Skincare,Home & Kitchen,Cookware,278.49,734.29
+PROD00616,Interest Jeans,Sports,Outdoor,111.66,264.33
+PROD00617,Full Laptop,Sports,Outdoor,104.17,183.45
+PROD00618,Campaign Laptop,Clothing,Jeans,495.31,693.76
+PROD00619,Tend Outdoor,Beauty,Haircare,401.86,844.36
+PROD00620,Goal Outdoor,Clothing,T-Shirts,375.4,486.72
+PROD00621,Her Fitness,Electronics,Camera,398.06,536.08
+PROD00622,Wear Jackets,Home & Kitchen,Decor,484.62,309.72
+PROD00623,Total Headphones,Electronics,Laptop,288.77,499.67
+PROD00624,Strong Dresses,Clothing,Jeans,114.02,140.66
+PROD00625,Water Outdoor,Sports,Sportswear,431.79,956.27
+PROD00626,Financial Headphones,Beauty,Skincare,372.65,802.36
+PROD00627,Feeling Appliances,Sports,Sportswear,210.08,671.29
+PROD00628,Until Haircare,Home & Kitchen,Decor,239.42,542.81
+PROD00629,Old Mobile,Electronics,Camera,208.57,794.25
+PROD00630,While Decor,Home & Kitchen,Decor,465.32,499.81
+PROD00631,Investment Dresses,Electronics,Laptop,175.05,306.97
+PROD00632,Create Mobile,Beauty,Skincare,481.92,168.77
+PROD00633,Why Jeans,Sports,Sportswear,455.58,651.11
+PROD00634,Guess Jackets,Electronics,Laptop,317.11,930.13
+PROD00635,Least Makeup,Electronics,Laptop,292.01,162.08
+PROD00636,Investment Sportswear,Beauty,Skincare,188.19,188.22
+PROD00637,Order Laptop,Home & Kitchen,Appliances,14.08,439.27
+PROD00638,Media Decor,Sports,Outdoor,68.17,808.83
+PROD00639,Actually Jeans,Clothing,Dresses,378.34,300.98
+PROD00640,Life Camera,Home & Kitchen,Furniture,238.41,261.37
+PROD00641,Capital Sportswear,Sports,Sportswear,79.17,623.77
+PROD00642,College Mobile,Sports,Outdoor,135.66,540.26
+PROD00643,Run Camera,Electronics,Headphones,474.18,69.62
+PROD00644,Positive Jeans,Clothing,Jeans,186.73,90.68
+PROD00645,Beautiful Jackets,Home & Kitchen,Furniture,454.3,646.58
+PROD00646,Can Fitness,Electronics,Mobile,155.79,470.47
+PROD00647,Police Outdoor,Electronics,Mobile,273.89,971.27
+PROD00648,Yard Jackets,Clothing,T-Shirts,15.14,681.75
+PROD00649,Attorney Makeup,Clothing,Jackets,263.33,19.97
+PROD00650,Improve Makeup,Home & Kitchen,Decor,320.29,486.21
+PROD00651,Product Haircare,Beauty,Skincare,120.98,420.3
+PROD00652,Happen Fitness,Clothing,Jeans,291.57,115.65
+PROD00653,Audience T-Shirts,Home & Kitchen,Cookware,325.35,923.98
+PROD00654,Heart Jackets,Clothing,Dresses,345.01,806.96
+PROD00655,Safe Sportswear,Electronics,Headphones,389.32,237.79
+PROD00656,Tell Dresses,Home & Kitchen,Decor,159.11,263.42
+PROD00657,Few Laptop,Clothing,Jeans,286.05,41.7
+PROD00658,Coach Jackets,Sports,Sportswear,490.88,303.75
+PROD00659,Interest Makeup,Home & Kitchen,Cookware,449.58,588.78
+PROD00660,Concern Mobile,Beauty,Skincare,476.57,426.63
+PROD00661,Arm Outdoor,Electronics,Camera,196.14,969.56
+PROD00662,Ten Makeup,Sports,Outdoor,394.53,65.52
+PROD00663,Source Mobile,Electronics,Mobile,311.85,595.52
+PROD00664,Push Sportswear,Electronics,Mobile,45.95,859.73
+PROD00665,She Camera,Sports,Fitness,412.87,485.93
+PROD00666,Word Furniture,Beauty,Skincare,340.17,12.93
+PROD00667,Short Cookware,Electronics,Mobile,103.46,250.37
+PROD00668,Wrong Mobile,Clothing,Dresses,44.47,330.53
+PROD00669,Scientist Laptop,Clothing,Dresses,419.33,966.33
+PROD00670,Part Outdoor,Electronics,Laptop,44.06,912.66
+PROD00671,Challenge Jeans,Beauty,Skincare,50.22,949.68
+PROD00672,Different Decor,Home & Kitchen,Furniture,216.57,827.5
+PROD00673,Heavy Jeans,Sports,Outdoor,71.72,358.13
+PROD00674,Environmental Cookware,Home & Kitchen,Furniture,457.27,906.82
+PROD00675,Adult Laptop,Sports,Sportswear,237.79,981.87
+PROD00676,Actually Furniture,Home & Kitchen,Furniture,286.73,356.57
+PROD00677,Billion Jeans,Electronics,Camera,464.41,267.95
+PROD00678,Pattern Furniture,Home & Kitchen,Decor,267.48,551.45
+PROD00679,Under Cookware,Beauty,Haircare,180.03,195.28
+PROD00680,He Camera,Electronics,Camera,399.59,42.3
+PROD00681,Art Fitness,Clothing,Jeans,224.21,946.37
+PROD00682,Go Sportswear,Electronics,Laptop,162.64,926.48
+PROD00683,Us Skincare,Beauty,Skincare,363.0,171.03
+PROD00684,Production Makeup,Beauty,Makeup,401.79,413.66
+PROD00685,Radio Fitness,Home & Kitchen,Appliances,396.9,832.73
+PROD00686,Cup Haircare,Home & Kitchen,Furniture,488.95,664.39
+PROD00687,Sure Cookware,Clothing,Jeans,394.4,400.84
+PROD00688,Spend Makeup,Beauty,Skincare,386.12,746.73
+PROD00689,Stay Camera,Home & Kitchen,Cookware,429.46,898.08
+PROD00690,Suffer T-Shirts,Electronics,Headphones,5.09,926.9
+PROD00691,Skill Headphones,Clothing,Dresses,184.4,385.06
+PROD00692,Smile Appliances,Sports,Fitness,370.11,181.83
+PROD00693,After Makeup,Sports,Fitness,301.86,913.71
+PROD00694,Himself Dresses,Electronics,Laptop,92.9,101.63
+PROD00695,Military Haircare,Clothing,Dresses,155.35,724.47
+PROD00696,Guy Sportswear,Home & Kitchen,Furniture,171.71,149.09
+PROD00697,Understand Fitness,Electronics,Camera,286.07,395.49
+PROD00698,Person Makeup,Electronics,Camera,416.64,417.44
+PROD00699,Light Furniture,Home & Kitchen,Cookware,466.58,167.17
+PROD00700,Scientist Headphones,Electronics,Headphones,376.3,923.45
+PROD00701,Approach Haircare,Beauty,Skincare,422.26,12.64
+PROD00702,Size Laptop,Electronics,Laptop,237.7,894.87
+PROD00703,Water Outdoor,Sports,Sportswear,197.94,884.99
+PROD00704,Today Headphones,Beauty,Makeup,199.39,323.79
+PROD00705,Listen Makeup,Clothing,Jackets,309.94,707.24
+PROD00706,Class Sportswear,Electronics,Camera,66.5,260.28
+PROD00707,Rather Jackets,Home & Kitchen,Appliances,291.85,761.19
+PROD00708,Company Mobile,Sports,Outdoor,334.24,565.51
+PROD00709,Significant Headphones,Clothing,Dresses,222.26,307.22
+PROD00710,Population Cookware,Electronics,Laptop,476.82,406.23
+PROD00711,If Headphones,Clothing,T-Shirts,306.07,692.99
+PROD00712,Which Decor,Home & Kitchen,Decor,113.9,907.04
+PROD00713,Black Camera,Clothing,Jeans,242.21,139.42
+PROD00714,System Sportswear,Beauty,Haircare,339.33,575.65
+PROD00715,Financial T-Shirts,Sports,Fitness,165.2,261.19
+PROD00716,Get Furniture,Home & Kitchen,Cookware,44.42,803.36
+PROD00717,Admit Jeans,Home & Kitchen,Cookware,293.8,79.53
+PROD00718,Thing Makeup,Electronics,Laptop,474.2,692.07
+PROD00719,Small Furniture,Clothing,Dresses,245.11,183.2
+PROD00720,Power Jackets,Clothing,Jackets,453.52,600.42
+PROD00721,Fish Sportswear,Sports,Outdoor,418.34,837.34
+PROD00722,Office Dresses,Sports,Outdoor,77.97,757.53
+PROD00723,Yard Furniture,Beauty,Skincare,355.54,755.41
+PROD00724,Task Jeans,Electronics,Camera,220.56,522.67
+PROD00725,Air Skincare,Home & Kitchen,Decor,128.87,891.84
+PROD00726,Upon Dresses,Clothing,Jeans,345.03,592.22
+PROD00727,Interest Outdoor,Electronics,Laptop,372.62,918.34
+PROD00728,Same Furniture,Home & Kitchen,Decor,94.05,551.06
+PROD00729,Fact Decor,Sports,Fitness,457.65,510.91
+PROD00730,Bank Haircare,Clothing,T-Shirts,376.82,230.13
+PROD00731,Best Appliances,Home & Kitchen,Decor,467.02,549.34
+PROD00732,History Appliances,Beauty,Skincare,161.95,149.18
+PROD00733,Month Appliances,Electronics,Mobile,469.97,870.99
+PROD00734,Task Fitness,Clothing,T-Shirts,187.42,679.13
+PROD00735,Author Jackets,Home & Kitchen,Appliances,31.72,993.7
+PROD00736,Let Jeans,Sports,Fitness,382.67,101.18
+PROD00737,Class Headphones,Home & Kitchen,Appliances,353.24,248.27
+PROD00738,Method Fitness,Electronics,Headphones,300.97,878.39
+PROD00739,Hospital Sportswear,Home & Kitchen,Furniture,247.5,401.3
+PROD00740,Mother Appliances,Clothing,Jeans,20.92,471.64
+PROD00741,Bring Skincare,Clothing,Jackets,314.18,862.05
+PROD00742,Once Jeans,Sports,Fitness,211.33,526.6
+PROD00743,Pick Mobile,Home & Kitchen,Appliances,282.3,201.54
+PROD00744,Design Haircare,Sports,Fitness,217.51,893.11
+PROD00745,Make Decor,Electronics,Headphones,483.2,40.75
+PROD00746,Medical Sportswear,Electronics,Mobile,304.03,896.44
+PROD00747,On Haircare,Electronics,Camera,375.87,60.02
+PROD00748,Bank Dresses,Sports,Sportswear,468.49,669.19
+PROD00749,Deal Laptop,Clothing,Jeans,297.84,80.96
+PROD00750,Hot Jackets,Sports,Fitness,10.97,709.15
+PROD00751,Professor Camera,Beauty,Haircare,21.97,43.63
+PROD00752,Control Cookware,Sports,Fitness,352.66,844.03
+PROD00753,Soon Appliances,Home & Kitchen,Cookware,143.15,471.28
+PROD00754,Seat Skincare,Home & Kitchen,Cookware,291.79,102.52
+PROD00755,Account Makeup,Clothing,Dresses,105.13,709.75
+PROD00756,Look Mobile,Clothing,T-Shirts,138.77,494.4
+PROD00757,Necessary Makeup,Clothing,Jackets,254.8,199.04
+PROD00758,Success Decor,Home & Kitchen,Appliances,487.91,25.52
+PROD00759,She Outdoor,Sports,Outdoor,310.05,423.82
+PROD00760,Laugh Outdoor,Clothing,Jeans,468.39,94.77
+PROD00761,Resource T-Shirts,Home & Kitchen,Appliances,479.89,103.23
+PROD00762,System Decor,Sports,Outdoor,108.01,274.66
+PROD00763,Least Sportswear,Electronics,Mobile,159.04,634.15
+PROD00764,Fall Makeup,Clothing,Jeans,386.15,534.61
+PROD00765,How Sportswear,Beauty,Haircare,434.05,78.3
+PROD00766,Try Jeans,Electronics,Mobile,262.02,968.75
+PROD00767,Reach Furniture,Beauty,Haircare,496.65,888.3
+PROD00768,Area T-Shirts,Sports,Sportswear,10.73,266.63
+PROD00769,Federal Appliances,Home & Kitchen,Furniture,153.3,131.12
+PROD00770,Hear Headphones,Clothing,Dresses,313.47,942.98
+PROD00771,Agree Jeans,Beauty,Makeup,237.3,466.53
+PROD00772,News Camera,Clothing,Jackets,62.72,318.06
+PROD00773,Doctor Makeup,Beauty,Makeup,187.05,495.45
+PROD00774,Car Furniture,Electronics,Mobile,17.6,775.02
+PROD00775,Personal Furniture,Electronics,Laptop,323.16,176.7
+PROD00776,Five Sportswear,Home & Kitchen,Furniture,446.91,769.82
+PROD00777,Officer T-Shirts,Clothing,Jeans,443.01,751.95
+PROD00778,Responsibility Laptop,Electronics,Mobile,351.27,543.95
+PROD00779,Human Decor,Beauty,Haircare,235.56,867.18
+PROD00780,Tonight Jeans,Beauty,Skincare,258.46,140.82
+PROD00781,Cause Haircare,Clothing,Jackets,72.77,599.52
+PROD00782,Only Laptop,Beauty,Makeup,173.8,454.85
+PROD00783,Establish Jeans,Beauty,Makeup,97.93,428.07
+PROD00784,On Sportswear,Sports,Outdoor,411.49,260.04
+PROD00785,Well Outdoor,Beauty,Haircare,457.8,378.56
+PROD00786,Report Cookware,Sports,Sportswear,270.78,117.07
+PROD00787,Manage T-Shirts,Electronics,Mobile,365.24,259.08
+PROD00788,That Laptop,Electronics,Camera,65.13,279.25
+PROD00789,Fall Decor,Home & Kitchen,Furniture,306.22,723.46
+PROD00790,Finish Haircare,Home & Kitchen,Furniture,352.88,58.06
+PROD00791,While Fitness,Electronics,Mobile,229.12,654.68
+PROD00792,New Makeup,Beauty,Makeup,125.42,229.2
+PROD00793,Lose Furniture,Sports,Outdoor,439.3,91.04
+PROD00794,For Jackets,Beauty,Skincare,372.74,307.8
+PROD00795,Past Haircare,Home & Kitchen,Cookware,450.43,232.23
+PROD00796,Worker Sportswear,Clothing,Jackets,410.11,556.51
+PROD00797,Figure Fitness,Sports,Fitness,495.24,363.8
+PROD00798,Value Dresses,Clothing,Jeans,100.13,966.33
+PROD00799,Everything Jeans,Home & Kitchen,Furniture,47.94,963.91
+PROD00800,Put Headphones,Beauty,Haircare,171.82,449.28
+PROD00801,Attention Makeup,Beauty,Makeup,68.86,797.14
+PROD00802,Daughter Outdoor,Clothing,Jeans,263.95,23.14
+PROD00803,Social Laptop,Clothing,Dresses,318.35,552.33
+PROD00804,Box T-Shirts,Electronics,Headphones,291.25,745.87
+PROD00805,Ask Cookware,Beauty,Makeup,133.32,224.77
+PROD00806,Across Dresses,Clothing,Dresses,454.87,70.56
+PROD00807,Threat Jeans,Home & Kitchen,Furniture,15.48,164.36
+PROD00808,Happen Outdoor,Electronics,Headphones,177.27,447.43
+PROD00809,Not Outdoor,Home & Kitchen,Appliances,360.9,511.31
+PROD00810,This Headphones,Home & Kitchen,Decor,384.63,387.08
+PROD00811,Education Sportswear,Electronics,Mobile,210.98,445.57
+PROD00812,Part T-Shirts,Sports,Fitness,13.37,475.53
+PROD00813,Herself Jackets,Beauty,Skincare,310.93,771.74
+PROD00814,Music Laptop,Beauty,Skincare,36.23,114.19
+PROD00815,Night Makeup,Clothing,Dresses,58.39,771.26
+PROD00816,Image Makeup,Clothing,Jeans,326.87,691.74
+PROD00817,Picture Appliances,Home & Kitchen,Furniture,159.68,744.24
+PROD00818,Air Haircare,Home & Kitchen,Appliances,177.27,737.12
+PROD00819,Federal Jeans,Electronics,Headphones,245.97,475.89
+PROD00820,Represent Mobile,Sports,Fitness,489.4,219.29
+PROD00821,Since Skincare,Beauty,Makeup,482.89,541.26
+PROD00822,Soldier Haircare,Sports,Outdoor,211.05,958.4
+PROD00823,Stand Outdoor,Sports,Outdoor,136.42,592.64
+PROD00824,With Furniture,Sports,Outdoor,154.78,20.94
+PROD00825,Which T-Shirts,Electronics,Laptop,138.05,69.11
+PROD00826,Could Sportswear,Electronics,Headphones,268.46,992.93
+PROD00827,Phone Cookware,Home & Kitchen,Furniture,305.4,81.23
+PROD00828,Purpose Outdoor,Sports,Sportswear,246.95,55.58
+PROD00829,Get Laptop,Sports,Sportswear,206.96,359.49
+PROD00830,Drop Furniture,Electronics,Camera,109.59,969.62
+PROD00831,Fire T-Shirts,Clothing,T-Shirts,243.84,325.49
+PROD00832,Think Decor,Sports,Fitness,173.85,415.79
+PROD00833,Upon Decor,Home & Kitchen,Furniture,273.09,637.74
+PROD00834,Trial Furniture,Clothing,Dresses,339.22,33.87
+PROD00835,Build Fitness,Beauty,Makeup,318.49,898.79
+PROD00836,Of Furniture,Home & Kitchen,Furniture,233.93,524.25
+PROD00837,Side Makeup,Electronics,Headphones,280.25,472.14
+PROD00838,Civil Skincare,Home & Kitchen,Cookware,146.0,862.12
+PROD00839,Cultural Mobile,Home & Kitchen,Furniture,17.0,953.55
+PROD00840,Hundred Mobile,Electronics,Mobile,314.38,429.19
+PROD00841,Somebody Furniture,Home & Kitchen,Furniture,130.02,180.72
+PROD00842,Can Sportswear,Beauty,Makeup,336.13,817.55
+PROD00843,They Headphones,Clothing,Jackets,374.77,409.23
+PROD00844,Little Fitness,Beauty,Haircare,458.38,936.19
+PROD00845,Maybe Cookware,Home & Kitchen,Cookware,479.27,950.4
+PROD00846,Avoid Headphones,Beauty,Skincare,10.21,123.68
+PROD00847,Central Outdoor,Home & Kitchen,Appliances,495.24,956.99
+PROD00848,Area Furniture,Electronics,Camera,343.09,374.59
+PROD00849,Bill Sportswear,Sports,Sportswear,323.54,649.79
+PROD00850,Year Dresses,Clothing,T-Shirts,12.53,44.4
+PROD00851,Occur Sportswear,Sports,Outdoor,431.31,890.0
+PROD00852,White Camera,Electronics,Camera,77.02,645.18
+PROD00853,Involve Mobile,Electronics,Headphones,419.48,647.12
+PROD00854,Claim Furniture,Clothing,T-Shirts,12.7,903.15
+PROD00855,Most Cookware,Electronics,Camera,324.75,513.26
+PROD00856,Scientist Decor,Home & Kitchen,Furniture,220.23,416.41
+PROD00857,Give Headphones,Electronics,Mobile,104.38,867.47
+PROD00858,Particularly Furniture,Home & Kitchen,Furniture,58.24,745.0
+PROD00859,Statement Makeup,Beauty,Makeup,222.86,949.49
+PROD00860,Leader Haircare,Electronics,Mobile,66.04,940.72
+PROD00861,Yes Sportswear,Sports,Outdoor,245.79,388.5
+PROD00862,Or Makeup,Home & Kitchen,Appliances,314.48,452.52
+PROD00863,Long Jeans,Sports,Outdoor,414.56,263.43
+PROD00864,Ability Jackets,Sports,Sportswear,340.93,664.04
+PROD00865,Mission Outdoor,Electronics,Mobile,37.27,370.9
+PROD00866,Seat Haircare,Sports,Fitness,157.18,788.24
+PROD00867,True Makeup,Beauty,Haircare,147.55,130.34
+PROD00868,There Camera,Electronics,Mobile,457.94,125.24
+PROD00869,House Dresses,Sports,Sportswear,434.55,212.41
+PROD00870,Long Mobile,Home & Kitchen,Cookware,188.22,93.45
+PROD00871,Himself Mobile,Clothing,Jeans,40.22,623.83
+PROD00872,Establish Camera,Home & Kitchen,Decor,447.58,155.88
+PROD00873,Professor Appliances,Clothing,T-Shirts,444.65,168.36
+PROD00874,School Dresses,Clothing,Jackets,428.1,24.09
+PROD00875,Discuss Sportswear,Clothing,T-Shirts,423.32,784.27
+PROD00876,Rock Skincare,Sports,Fitness,242.73,814.17
+PROD00877,Throughout Outdoor,Beauty,Makeup,92.83,170.4
+PROD00878,Often Jackets,Clothing,Dresses,241.36,742.13
+PROD00879,Something Cookware,Clothing,Jeans,249.83,439.21
+PROD00880,Role Cookware,Sports,Sportswear,247.52,247.2
+PROD00881,Skin Skincare,Clothing,T-Shirts,271.69,625.17
+PROD00882,Before Furniture,Clothing,Jackets,132.54,186.7
+PROD00883,Firm Headphones,Beauty,Haircare,186.29,759.31
+PROD00884,Address Skincare,Sports,Sportswear,219.92,57.14
+PROD00885,Why Camera,Sports,Sportswear,69.9,959.54
+PROD00886,Social Appliances,Sports,Sportswear,230.41,81.16
+PROD00887,Century T-Shirts,Sports,Outdoor,406.18,583.65
+PROD00888,Score Jackets,Sports,Sportswear,414.89,903.17
+PROD00889,Just Headphones,Sports,Outdoor,208.72,21.79
+PROD00890,Hope Cookware,Beauty,Haircare,261.81,503.53
+PROD00891,Protect Outdoor,Clothing,Dresses,21.66,356.51
+PROD00892,Painting Haircare,Clothing,Jackets,338.84,584.53
+PROD00893,Mrs Outdoor,Sports,Sportswear,205.28,233.2
+PROD00894,Lot Fitness,Beauty,Makeup,225.51,74.25
+PROD00895,Brother Skincare,Sports,Fitness,437.47,629.67
+PROD00896,Teacher Furniture,Sports,Sportswear,233.61,422.68
+PROD00897,As Camera,Home & Kitchen,Furniture,15.49,626.26
+PROD00898,Choice Outdoor,Beauty,Skincare,117.61,218.43
+PROD00899,Myself Sportswear,Beauty,Skincare,240.43,345.35
+PROD00900,Offer Jackets,Electronics,Mobile,215.08,566.06
+PROD00901,Treat Skincare,Beauty,Makeup,430.88,597.18
+PROD00902,Young Makeup,Sports,Outdoor,273.36,378.59
+PROD00903,Imagine Laptop,Electronics,Camera,346.37,287.25
+PROD00904,Page Makeup,Sports,Outdoor,237.32,280.96
+PROD00905,Never Headphones,Clothing,Jeans,222.63,182.95
+PROD00906,Site Makeup,Beauty,Makeup,225.91,332.15
+PROD00907,Itself Fitness,Electronics,Laptop,208.41,207.45
+PROD00908,Begin Appliances,Home & Kitchen,Appliances,271.6,637.48
+PROD00909,Become Outdoor,Home & Kitchen,Decor,128.97,573.38
+PROD00910,Message Makeup,Home & Kitchen,Furniture,446.07,388.76
+PROD00911,Hot Headphones,Home & Kitchen,Cookware,169.88,332.57
+PROD00912,Future Haircare,Home & Kitchen,Furniture,78.02,245.24
+PROD00913,Born Jackets,Beauty,Skincare,52.79,540.1
+PROD00914,Oil Camera,Home & Kitchen,Cookware,11.64,919.71
+PROD00915,Against Outdoor,Sports,Outdoor,214.31,688.85
+PROD00916,So Outdoor,Beauty,Haircare,97.87,746.97
+PROD00917,History Camera,Beauty,Skincare,15.72,836.03
+PROD00918,Congress Jackets,Electronics,Camera,262.41,358.12
+PROD00919,Hotel Jackets,Electronics,Mobile,341.59,72.25
+PROD00920,Around T-Shirts,Clothing,Dresses,47.45,626.33
+PROD00921,Decide Mobile,Electronics,Headphones,233.16,196.79
+PROD00922,Newspaper Makeup,Beauty,Makeup,373.1,573.35
+PROD00923,Set Sportswear,Electronics,Mobile,492.97,742.12
+PROD00924,Authority Jackets,Electronics,Headphones,335.26,785.8
+PROD00925,News Appliances,Electronics,Mobile,126.2,308.82
+PROD00926,Outside Decor,Electronics,Camera,359.69,517.31
+PROD00927,His Sportswear,Home & Kitchen,Decor,300.98,624.76
+PROD00928,Believe Camera,Electronics,Mobile,109.84,821.29
+PROD00929,Art Decor,Home & Kitchen,Cookware,426.3,763.77
+PROD00930,Her T-Shirts,Electronics,Mobile,216.57,988.1
+PROD00931,Story Mobile,Clothing,Dresses,481.18,18.0
+PROD00932,Amount Fitness,Beauty,Skincare,362.84,443.11
+PROD00933,From Haircare,Electronics,Mobile,324.06,263.48
+PROD00934,Seek Jeans,Home & Kitchen,Furniture,365.53,128.69
+PROD00935,Near Mobile,Beauty,Makeup,241.66,912.4
+PROD00936,Myself Outdoor,Clothing,T-Shirts,255.09,997.98
+PROD00937,Fast Cookware,Electronics,Camera,426.35,188.79
+PROD00938,Test Fitness,Electronics,Camera,342.06,48.05
+PROD00939,Education Decor,Sports,Fitness,449.14,282.3
+PROD00940,Me Jeans,Clothing,Dresses,445.96,836.51
+PROD00941,Purpose Decor,Electronics,Camera,488.36,300.95
+PROD00942,Continue Skincare,Electronics,Laptop,351.61,66.33
+PROD00943,Democratic Furniture,Electronics,Laptop,253.64,61.97
+PROD00944,Character Jeans,Home & Kitchen,Decor,87.32,433.15
+PROD00945,Forget Outdoor,Sports,Fitness,354.16,932.51
+PROD00946,Own T-Shirts,Beauty,Haircare,149.33,293.06
+PROD00947,Various Jeans,Electronics,Mobile,145.06,432.89
+PROD00948,Nation Camera,Clothing,Jackets,122.95,110.91
+PROD00949,Country Dresses,Beauty,Haircare,438.19,498.64
+PROD00950,Response Mobile,Sports,Sportswear,434.64,699.58
+PROD00951,Table Outdoor,Home & Kitchen,Furniture,317.33,278.44
+PROD00952,Security Cookware,Home & Kitchen,Appliances,239.13,303.74
+PROD00953,Attention Camera,Sports,Outdoor,337.7,843.56
+PROD00954,General Makeup,Beauty,Haircare,305.58,20.26
+PROD00955,Ball Appliances,Beauty,Haircare,210.79,640.11
+PROD00956,Case Haircare,Sports,Sportswear,192.92,399.95
+PROD00957,Stuff Cookware,Electronics,Laptop,194.48,305.4
+PROD00958,Hand Haircare,Clothing,Jackets,296.62,661.02
+PROD00959,Rather T-Shirts,Electronics,Headphones,325.6,836.32
+PROD00960,Medical T-Shirts,Electronics,Headphones,228.61,562.81
+PROD00961,Wind Camera,Clothing,Jackets,484.5,40.78
+PROD00962,Understand Fitness,Beauty,Haircare,46.5,466.79
+PROD00963,For Dresses,Electronics,Camera,176.79,468.13
+PROD00964,Guess Fitness,Beauty,Skincare,212.44,548.36
+PROD00965,Director Makeup,Sports,Sportswear,13.38,674.25
+PROD00966,Material Camera,Beauty,Makeup,185.65,29.13
+PROD00967,Bed Headphones,Beauty,Skincare,140.49,506.99
+PROD00968,Everybody Skincare,Clothing,Jeans,255.49,592.42
+PROD00969,Indeed Camera,Electronics,Headphones,171.52,349.92
+PROD00970,Allow Mobile,Home & Kitchen,Appliances,364.46,671.68
+PROD00971,Better Furniture,Clothing,Dresses,257.42,235.9
+PROD00972,Federal Fitness,Beauty,Haircare,69.23,324.2
+PROD00973,Support Jeans,Sports,Outdoor,376.28,963.13
+PROD00974,Music Furniture,Clothing,Dresses,54.12,354.59
+PROD00975,Unit T-Shirts,Sports,Outdoor,420.33,353.04
+PROD00976,World Skincare,Home & Kitchen,Cookware,466.05,599.72
+PROD00977,This Haircare,Electronics,Headphones,164.61,971.27
+PROD00978,Compare Skincare,Clothing,Dresses,463.44,983.25
+PROD00979,It Camera,Sports,Sportswear,397.54,583.86
+PROD00980,Hundred Makeup,Beauty,Skincare,461.61,11.08
+PROD00981,Although Jeans,Clothing,Dresses,334.8,901.65
+PROD00982,Base Skincare,Beauty,Haircare,121.64,574.54
+PROD00983,Military Dresses,Sports,Outdoor,447.79,372.34
+PROD00984,Thousand Furniture,Home & Kitchen,Appliances,96.21,830.9
+PROD00985,Choose Dresses,Electronics,Mobile,110.46,405.83
+PROD00986,Dream Fitness,Clothing,Jeans,139.18,43.7
+PROD00987,How Cookware,Beauty,Haircare,155.6,822.86
+PROD00988,Consumer Cookware,Sports,Sportswear,259.67,550.4
+PROD00989,Theory Outdoor,Home & Kitchen,Cookware,358.16,344.76
+PROD00990,Maybe Dresses,Clothing,Jackets,463.47,258.38
+PROD00991,Apply Outdoor,Clothing,Dresses,48.78,597.86
+PROD00992,Six Mobile,Home & Kitchen,Appliances,477.41,215.97
+PROD00993,Out Dresses,Beauty,Skincare,461.05,330.61
+PROD00994,Fill Outdoor,Home & Kitchen,Cookware,31.73,640.17
+PROD00995,Size Decor,Beauty,Haircare,183.36,882.73
+PROD00996,Continue Jackets,Home & Kitchen,Cookware,407.51,537.56
+PROD00997,Exist Headphones,Home & Kitchen,Decor,307.73,761.52
+PROD00998,Should Skincare,Electronics,Laptop,390.65,765.43
+PROD00999,Yard Jackets,Electronics,Mobile,360.92,667.71
+PROD01000,Western Dresses,Beauty,Skincare,250.9,253.38
