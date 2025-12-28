@@ -1,101 +1,51 @@
-store_id,store_name,region,country,city,opening_date
-STORE0001,Hall Ltd Store,North America,USA,West Janetberg,2024-11-20
-STORE0002,Baker-Miller Store,North America,Canada,East Savannahfurt,2020-03-10
-STORE0003,Morris Group Store,Asia,India,Butlershire,2021-01-13
-STORE0004,Patel and Sons Store,Asia,India,South Zachary,2016-09-25
-STORE0005,"Hernandez, Miles and Gonzalez Store",Europe,UK,Lake Mitchellshire,2023-07-14
-STORE0006,Gibson Inc Store,North America,USA,Port Troytown,2018-04-29
-STORE0007,Andersen Group Store,Asia,India,Butlerside,2018-02-23
-STORE0008,Bolton LLC Store,North America,Canada,East Malloryland,2019-05-15
-STORE0009,"Gomez, Roberts and Armstrong Store",North America,USA,New Joshuafurt,2020-12-13
-STORE0010,"Woods, Scott and Morales Store",Asia,India,Ramirezland,2023-12-10
-STORE0011,Holmes-Weeks Store,Oceania,Australia,West Antonio,2021-07-08
-STORE0012,Johnson Inc Store,Europe,UK,Greenmouth,2017-07-22
-STORE0013,Baker Group Store,Oceania,Australia,Christinafort,2018-05-30
-STORE0014,Lawson-Jones Store,Oceania,Australia,Sharpbury,2020-05-06
-STORE0015,Thomas Ltd Store,Oceania,Australia,East Christopherbury,2019-06-22
-STORE0016,"Frederick, Medina and Avila Store",Oceania,Australia,Port Jessicashire,2022-09-08
-STORE0017,"Hudson, Watson and Benson Store",North America,Canada,Prestonborough,2023-07-15
-STORE0018,Jackson and Sons Store,Europe,UK,Kristyview,2023-08-01
-STORE0019,Craig-Torres Store,Oceania,Australia,Dwaynetown,2016-09-28
-STORE0020,Garrison Inc Store,North America,USA,Olsonmouth,2017-12-13
-STORE0021,Johnson Ltd Store,North America,Canada,Port Luisborough,2019-06-24
-STORE0022,Carter-Griffin Store,Asia,India,North Jeffrey,2015-12-30
-STORE0023,Schneider-Walters Store,Asia,India,New Anthonymouth,2017-05-21
-STORE0024,Soto Ltd Store,North America,USA,West Patriciaborough,2024-02-24
-STORE0025,"Oliver, Lucas and Anderson Store",Asia,India,Bradleyborough,2016-05-21
-STORE0026,"Reed, Warner and Dunn Store",North America,Canada,Beardfort,2018-11-16
-STORE0027,Wilson-Park Store,Europe,Germany,Kathyville,2022-12-19
-STORE0028,"Gonzalez, Kelley and Johnson Store",Asia,India,Scotttown,2016-05-11
-STORE0029,"Wood, Lane and Vargas Store",Oceania,Australia,East Jesse,2019-01-01
-STORE0030,"Johnson, Mcpherson and Ellis Store",North America,USA,Schroederburgh,2020-11-12
-STORE0031,Smith PLC Store,Asia,India,Sheilabury,2018-09-11
-STORE0032,Nelson and Sons Store,North America,Canada,Washingtonville,2019-08-16
-STORE0033,"Morales, Singh and Davis Store",Oceania,Australia,Maryville,2017-04-20
-STORE0034,Johnson and Sons Store,North America,Canada,Port Sophiashire,2023-03-14
-STORE0035,Moore-Montgomery Store,Asia,India,Romanmouth,2017-08-16
-STORE0036,Heath-Smith Store,North America,Canada,Port Kevinstad,2016-05-16
-STORE0037,Hoffman PLC Store,Oceania,Australia,Ninaview,2016-10-13
-STORE0038,"Leon, Scott and Wells Store",North America,USA,West Rebecca,2018-05-09
-STORE0039,Barrera Ltd Store,Europe,UK,Wendystad,2024-08-27
-STORE0040,Carter-Johnston Store,Europe,Germany,Robertshaven,2020-08-04
-STORE0041,Taylor-Smith Store,Oceania,Australia,Johntown,2017-07-08
-STORE0042,"Yang, Cunningham and Oliver Store",Europe,UK,Rosalesbury,2023-08-06
-STORE0043,"Freeman, Newman and Huerta Store",Asia,India,South Melissa,2019-03-25
-STORE0044,Morales-Freeman Store,Oceania,Australia,South Jacquelinefort,2021-08-19
-STORE0045,Henderson-Johnson Store,Asia,India,Michealmouth,2019-09-20
-STORE0046,Hall LLC Store,Asia,India,Allenland,2023-08-13
-STORE0047,Mcdonald-Gallegos Store,Asia,India,Bellville,2024-06-08
-STORE0048,Tucker LLC Store,Asia,India,Elizabethbury,2022-11-24
-STORE0049,Mcclain-Baird Store,Oceania,Australia,Walkertown,2023-05-27
-STORE0050,"Chambers, Ibarra and Parker Store",North America,Canada,South Philipbury,2021-01-25
-STORE0051,Wilson-Dalton Store,Europe,Germany,North John,2017-11-28
-STORE0052,"Johnson, Riddle and Sutton Store",Europe,UK,Taraport,2023-07-04
-STORE0053,Odom Group Store,Oceania,Australia,North Renee,2016-03-12
-STORE0054,Castillo-Walter Store,Asia,India,New Daleside,2022-01-11
-STORE0055,Parks-Salinas Store,North America,USA,North Melissabury,2021-08-22
-STORE0056,Harris-Davis Store,Europe,Germany,South Lisa,2024-10-14
-STORE0057,Drake-Schmidt Store,Asia,India,South Susan,2016-08-29
-STORE0058,Russell-Zimmerman Store,Asia,India,Sethton,2024-07-11
-STORE0059,Walker-Calhoun Store,North America,Canada,Nicolebury,2016-01-30
-STORE0060,"Frank, Glenn and Clark Store",Europe,UK,Michaelfort,2016-06-15
-STORE0061,Taylor Inc Store,Europe,Germany,Christopherton,2023-12-17
-STORE0062,Henderson PLC Store,Europe,UK,Anthonyside,2020-03-23
-STORE0063,Turner Group Store,Asia,India,North Tricialand,2018-11-04
-STORE0064,Allen-Silva Store,North America,Canada,New Cassandra,2019-12-21
-STORE0065,Nixon and Sons Store,Europe,Germany,North Christina,2022-07-03
-STORE0066,Douglas PLC Store,North America,Canada,Port Brittany,2021-07-22
-STORE0067,"Holt, Simmons and Stuart Store",Asia,India,Lake Kimberly,2016-10-23
-STORE0068,Lee Group Store,Oceania,Australia,Colefort,2024-09-12
-STORE0069,Schultz-Hill Store,Oceania,Australia,West Andrewmouth,2018-08-30
-STORE0070,Smith Inc Store,Asia,India,North Frederickbury,2022-01-18
-STORE0071,Good PLC Store,North America,Canada,Davidview,2024-06-03
-STORE0072,Meyer Inc Store,Europe,Germany,Bennettport,2018-05-16
-STORE0073,Gonzalez Group Store,Oceania,Australia,West Nancyhaven,2021-06-15
-STORE0074,Benitez-Mann Store,North America,Canada,Courtneytown,2023-03-14
-STORE0075,Henson Inc Store,Europe,UK,Amytown,2022-01-05
-STORE0076,Booker-Garcia Store,Europe,Germany,Melissamouth,2018-01-04
-STORE0077,"Day, Guzman and Aguirre Store",Oceania,Australia,Lake Sueton,2019-04-13
-STORE0078,"Bolton, Holmes and Evans Store",Asia,India,South Andrew,2019-05-06
-STORE0079,Freeman Ltd Store,Europe,UK,North Kennethchester,2022-05-12
-STORE0080,"Calhoun, Anderson and Ramirez Store",Asia,India,Simonborough,2018-11-03
-STORE0081,"Best, Robinson and Torres Store",Asia,India,West Vanessaland,2022-12-19
-STORE0082,Byrd PLC Store,Europe,UK,Port Anne,2016-04-26
-STORE0083,Shields PLC Store,Asia,India,Leeton,2016-10-19
-STORE0084,"Lawson, Goodwin and Garcia Store",Asia,India,Parkerton,2016-04-02
-STORE0085,Clayton-Carey Store,North America,USA,Lake Davidborough,2023-09-09
-STORE0086,Harris Group Store,Europe,UK,Nicoleberg,2023-06-08
-STORE0087,Massey Ltd Store,North America,USA,Hallside,2023-04-24
-STORE0088,Knight PLC Store,Europe,Germany,Port Williamfort,2018-08-26
-STORE0089,Torres-Richards Store,North America,USA,Solisside,2021-12-08
-STORE0090,Ritter-Anderson Store,North America,Canada,South Ryan,2016-07-15
-STORE0091,"Hernandez, Weaver and Marquez Store",Europe,UK,East Andreafort,2021-08-26
-STORE0092,"Smith, Moore and Bean Store",Asia,India,New Barry,2021-09-07
-STORE0093,Powell and Sons Store,North America,USA,East Janet,2022-04-27
-STORE0094,"Kennedy, Hale and Turner Store",Oceania,Australia,South Matthewhaven,2023-02-05
-STORE0095,Cook-Smith Store,Oceania,Australia,North Scottberg,2021-08-07
-STORE0096,Ellis and Sons Store,Oceania,Australia,Lake Seantown,2017-11-11
-STORE0097,"Boyd, Sharp and Gay Store",Oceania,Australia,Christopherfurt,2016-12-27
-STORE0098,Davis-Baldwin Store,Asia,India,Blackton,2019-05-26
-STORE0099,"Freeman, Quinn and Brown Store",Oceania,Australia,East Ryanborough,2022-01-21
-STORE0100,"Kennedy, Cross and Rasmussen Store",Europe,UK,East Raymouth,2020-09-02
+store_id,store_name,city,state,country,region,store_type,open_date
+S200,"Bhasin, Srivastava and Ramakrishnan",Bulandshahr,West Bengal,India,West,Mall,2020-11-15
+S201,Kibe PLC,Bhusawal,Gujarat,India,South,Standalone,2017-10-28
+S202,Loke PLC,Aurangabad,Tamil Nadu,India,East,Standalone,2020-01-28
+S203,Talwar-Biswas,Morena,Mizoram,India,East,Standalone,2017-12-17
+S204,Sachdeva-Mani,Kirari Suleman Nagar,Himachal Pradesh,India,North,Warehouse,2018-09-09
+S205,"Kala, Deol and Konda",Gulbarga,Bihar,India,South,Warehouse,2021-08-16
+S206,Grover and Sons,Shimoga,Odisha,India,South,Standalone,2021-05-12
+S207,"Mahal, Karan and Balakrishnan",Tezpur,Nagaland,India,North,Warehouse,2024-03-14
+S208,Saha LLC,South Dumdum,Rajasthan,India,East,Warehouse,2019-09-10
+S209,Setty-Sagar,Madanapalle,Haryana,India,West,Standalone,2016-09-06
+S210,Rajagopal Ltd,Dindigul,Manipur,India,North,Warehouse,2016-06-20
+S211,Mani Group,Katihar,Tripura,India,West,Standalone,2016-11-25
+S212,"Chandra, Barad and Grover",Bulandshahr,Chhattisgarh,India,West,Mall,2023-06-24
+S213,Saini Group,Vijayanagaram,Punjab,India,North,Warehouse,2019-11-13
+S214,Deol-Dewan,Karawal Nagar,Andhra Pradesh,India,West,Standalone,2018-01-24
+S215,Upadhyay-Shukla,Jamalpur,Maharashtra,India,East,Standalone,2020-10-09
+S216,Acharya Ltd,Thoothukudi,Madhya Pradesh,India,East,Warehouse,2023-02-16
+S217,Keer Group,Belgaum,Karnataka,India,West,Warehouse,2017-05-30
+S218,"Karan, Ramanathan and Bansal",Panihati,Uttarakhand,India,North,Warehouse,2023-01-25
+S219,"Chawla, Vaidya and Issac",Salem,Uttarakhand,India,North,Warehouse,2023-10-06
+S220,"Agate, Ramaswamy and Lata",Bikaner,Chhattisgarh,India,South,Standalone,2022-03-27
+S221,Dewan Group,Amaravati,Mizoram,India,North,Standalone,2024-02-15
+S222,Varma-Swamy,Haridwar,Haryana,India,East,Mall,2022-09-30
+S223,Devi-Singh,Ujjain,Telangana,India,West,Standalone,2017-12-07
+S224,Garde-Zachariah,Silchar,Telangana,India,East,Mall,2022-06-30
+S225,Kara-Doctor,Dhule,Haryana,India,South,Warehouse,2017-11-07
+S226,Saraf-Bahri,Chittoor,Andhra Pradesh,India,North,Standalone,2020-12-22
+S227,"Sachdev, Vig and Mangal",Gandhidham,Meghalaya,India,North,Standalone,2023-02-28
+S228,"Kashyap, Sachdev and Sarin",Bangalore,Goa,India,South,Warehouse,2020-10-26
+S229,Gola and Sons,Panvel,Tamil Nadu,India,South,Warehouse,2022-12-23
+S230,Ahluwalia Group,Morbi,Tripura,India,East,Mall,2020-06-18
+S231,Dhaliwal-Jha,Anantapuram,Gujarat,India,North,Mall,2024-05-19
+S232,Kale LLC,Bhimavaram,Odisha,India,North,Standalone,2021-05-23
+S233,Hayre PLC,Darbhanga,Uttarakhand,India,North,Warehouse,2022-08-12
+S234,Edwin-Jani,Jodhpur,Nagaland,India,East,Warehouse,2016-03-08
+S235,Kata LLC,Bokaro,Haryana,India,North,Standalone,2022-07-31
+S236,"Guha, Rajagopalan and Lad",Serampore,Assam,India,West,Warehouse,2016-08-02
+S237,Dora-Maharaj,Bhopal,Andhra Pradesh,India,North,Standalone,2016-04-19
+S238,Devi-Anne,Sirsa,Himachal Pradesh,India,East,Mall,2020-10-01
+S239,"Subramanian, Lala and Chopra",Bathinda,Uttar Pradesh,India,West,Standalone,2024-02-10
+S240,"Bail, Bajaj and Shah",Morena,Arunachal Pradesh,India,North,Warehouse,2017-08-07
+S241,Trivedi-Vasa,Nellore,Kerala,India,South,Standalone,2019-01-16
+S242,"Sachdev, Khatri and Saha",Chinsurah,Chhattisgarh,India,North,Standalone,2024-12-12
+S243,"Deshmukh, Atwal and Reddy",South Dumdum,Arunachal Pradesh,India,South,Mall,2024-01-08
+S244,Sridhar Group,Coimbatore,Jharkhand,India,East,Standalone,2016-08-19
+S245,Trivedi Group,Gudivada,Manipur,India,East,Standalone,2016-06-30
+S246,Acharya-Dugar,Faridabad,Nagaland,India,North,Warehouse,2024-09-01
+S247,Khosla PLC,Vadodara,Mizoram,India,North,Warehouse,2019-06-27
+S248,Thakkar Group,Miryalaguda,Telangana,India,West,Standalone,2024-05-30
+S249,Keer LLC,Chinsurah,Bihar,India,East,Warehouse,2018-08-17
