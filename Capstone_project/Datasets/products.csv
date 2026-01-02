@@ -1,0 +1,307 @@
+product_id,product_name,category,sub_category,brand,cost_price,list_price,active_flag
+P1000,Perferendis Mobile,Electronics,Mobile Phones,"Toor, Badami and Dewan",1104,5850,TRUE
+P1001,Dignissimos Women,Fashion,Women Clothing,Basu-Srivastava,14958,15566,TRUE
+P1002,Veniam Household,Grocery,Household,Borra-D’Alia,17925,21479,TRUE
+P1003,Qui Furniture,Home & Kitchen,Furniture,"Subramaniam, Manda and Kale",1209,1494,TRUE
+P1004,Ex Women,Fashion,Women Clothing,Doshi Inc,3225,6831,TRUE
+P1005,Eius Women,Fashion,Women Clothing,Dhillon-Choudhry,19184.399999999998,15987,TRUE
+P1006,Tempore Women,Fashion,Women Clothing,"Sur, Lad and Aurora",15078,17945,TRUE
+P1007,Provident Men,Fashion,Men Clothing,Bahri Ltd,15528,15969,TRUE
+P1008,Pariatur Beverages,Grocery,Beverages,"Rout, Vasa and Mane",9185,11489,TRUE
+P1009,Velit Decor,Home & Kitchen,Decor,Chand Ltd,18980.399999999998,15817,TRUE
+P1010,Suscipit Men,Fashion,Men Clothing,Sha-Gole,5443,8826,TRUE
+P1011,Sit Beverages,Grocery,Beverages,"Devan, Sengupta and Khalsa",1804,6770,TRUE
+P1012,Illum Appliances,Home & Kitchen,Appliances,Bal Inc,29898,20263,TRUE
+P1013,Modi Laptops,Electronics,Laptops,Bobal-Butala,14234,18762,TRUE
+P1014,Est Laptops,Electronics,Laptops,"Lanka, Gola and Vala",4895,6858,TRUE
+P1015,Soluta Household,Grocery,Household,"Kaul, Kapadia and Sandal",16451,19492,TRUE
+P1016,Velit Women,Fashion,Women Clothing,Zachariah-Gaba,7838,11602,TRUE
+P1017,Necessitatibus Accessories,Electronics,Accessories,Chander PLC,14716,16288,TRUE
+P1018,Cumque Furniture,Home & Kitchen,Furniture,Kar-Andra,12893,14106,TRUE
+P1019,Doloribus Men,Fashion,Men Clothing,Jani-Barad,10357,11005,TRUE
+P1020,In Footwear,Fashion,Footwear,Master PLC,7713,10169,TRUE
+P1021,Est Household,Grocery,Household,"Dutta, Chakrabarti and Sagar",10843,11470,TRUE
+P1022,Earum Decor,Home & Kitchen,Decor,Sastry-Sathe,12122,14533,TRUE
+P1023,Dolore Accessories,Electronics,Accessories,Chander-Arya,7374,11148,TRUE
+P1024,Vero Footwear,Fashion,Footwear,Swaminathan Inc,14737,15591,TRUE
+P1025,Voluptatem Accessories,Electronics,Accessories,"Kothari, Krishnan and Saraf",7274,8362,TRUE
+P1026,Minima Beverages,Grocery,Beverages,"Srinivasan, Manne and Dubey",2659,5942,TRUE
+P1027,Dolores Laptops,Electronics,Laptops,Varghese Ltd,4552,5053,TRUE
+P1028,Voluptates Furniture,Home & Kitchen,Furniture,"Uppal, Choudhary and Dugar",4158,7958,TRUE
+P1029,Quos Mobile,Electronics,Mobile Phones,Dixit-Korpal,17820,21239,TRUE
+P1030,Possimus Decor,Home & Kitchen,Decor,Sen Ltd,7641,11890,TRUE
+P1031,Fuga Accessories,Electronics,Accessories,"Shere, Bobal and Madan",3344,6951,TRUE
+P1032,Quidem Laptops,Electronics,Laptops,Singh-Som,1085,2864,TRUE
+P1033,Commodi Women,Fashion,Women Clothing,Dubey-Madan,13687,16111,TRUE
+P1034,Hic Furniture,Home & Kitchen,Furniture,"Sule, Kadakia and Reddy",6235,9778,TRUE
+P1035,Natus Accessories,Electronics,Accessories,"Cherian, Apte and Comar",17004,21802,TRUE
+P1036,Maiores Food,Grocery,Food,"Dara, Sahni and Sane",10110,11836,TRUE
+P1037,Blanditiis Footwear,Fashion,Footwear,Chowdhury-Sethi,14575,17516,TRUE
+P1038,Voluptates Decor,Home & Kitchen,Decor,Varughese LLC,19601,22462,TRUE
+P1039,Facilis Appliances,Home & Kitchen,Appliances,Lalla PLC,2723,3162,TRUE
+P1040,Facere Women,Fashion,Women Clothing,Vora and Sons,1309,4205,TRUE
+P1041,Unde Mobile,Electronics,Mobile Phones,Borde-Sharaf,11535,15445,TRUE
+P1042,Illo Women,Fashion,Women Clothing,Madan Group,18942,20007,TRUE
+P1043,Error Beverages,Grocery,Beverages,"Dara, Saxena and Khalsa",8740,10110,TRUE
+P1044,Repellat Furniture,Home & Kitchen,Furniture,"Sengupta, Sachdeva and Bhasin",7020,11357,TRUE
+P1045,Excepturi Laptops,Electronics,Laptops,"Basu, Lall and Bora",16909,18465,TRUE
+P1046,Inventore Women,Fashion,Women Clothing,Bahl Ltd,8466,11020,TRUE
+P1047,Quaerat Appliances,Home & Kitchen,Appliances,"Chokshi, Kapoor and Viswanathan",1821,6278,TRUE
+P1048,Doloribus Women,Fashion,Women Clothing,Luthra LLC,14396,16836,TRUE
+P1049,Adipisci Laptops,Electronics,Laptops,Cheema-Borah,4235,4384,TRUE
+P1050,Culpa Decor,Home & Kitchen,Decor,"Gara, Lalla and Gokhale",11259,11986,TRUE
+P1051,Cum Household,Grocery,Household,"Srivastava, Bhatti and Sarna",12938,16446,TRUE
+P1052,Aut Accessories,Electronics,Accessories,Sastry-Bhandari,8855,13741,TRUE
+P1053,Aperiam Women,Fashion,Women Clothing,Goda PLC,2148,3129,TRUE
+P1054,Rerum Beverages,Grocery,Beverages,Lall PLC,16878,17956,TRUE
+P1055,Ad Furniture,Home & Kitchen,Furniture,Joshi-Dyal,17253,21841,TRUE
+P1056,Quia Beverages,Grocery,Beverages,Bhakta-Vaidya,15674,17229,TRUE
+P1057,Quaerat Household,Grocery,Household,Sachdev-Golla,11465,12244,TRUE
+P1058,Blanditiis Beverages,Grocery,Beverages,"Ramakrishnan, Rattan and Dhillon",12012,16157,TRUE
+P1059,Sapiente Beverages,Grocery,Beverages,Bhakta Ltd,6675,10909,TRUE
+P1060,Harum Mobile,Electronics,Mobile Phones,Bera LLC,9365,10490,TRUE
+P1061,Esse Furniture,Home & Kitchen,Furniture,Sunder-Savant,17806,22570,TRUE
+P1062,Aspernatur Furniture,Home & Kitchen,Furniture,Bora PLC,13409,17006,TRUE
+P1063,Possimus Laptops,Electronics,Laptops,"Vohra, Kapadia and Lall",13599,17739,TRUE
+P1064,Eius Appliances,Home & Kitchen,Appliances,"Kari, Cheema and Trivedi",8476,13395,TRUE
+P1065,Suscipit Food,Grocery,Food,Chaudhry-Dash,2881,3007,TRUE
+P1066,Quo Accessories,Electronics,Accessories,Joshi Ltd,14569,17713,TRUE
+P1067,Fugit Women,Fashion,Women Clothing,"Kara, Bhattacharyya and Sathe",15138,18554,TRUE
+P1068,Doloribus Mobile,Electronics,Mobile Phones,Balan-Venkataraman,7492,11524,TRUE
+P1069,Molestias Food,Grocery,Food,Mani Inc,9919,10947,TRUE
+P1070,Consequatur Beverages,Grocery,Beverages,Bala-Guha,1473,3836,TRUE
+P1071,Amet Food,Grocery,Food,Dar Ltd,3154,5086,FALSE
+P1072,Suscipit Decor,Home & Kitchen,Decor,Khanna PLC,7551,11213,TRUE
+P1073,Est Decor,Home & Kitchen,Decor,"Chokshi, Varghese and Cheema",5003,5249,TRUE
+P1074,Reiciendis Footwear,Fashion,Footwear,Dave-Sood,3949,5321,TRUE
+P1075,Dolores Beverages,Grocery,Beverages,Khatri and Sons,15760,19286,TRUE
+P1076,Rem Household,Grocery,Household,Walla LLC,14049,16951,TRUE
+P1077,Ipsa Mobile,Electronics,Mobile Phones,"Doctor, Badal and Dalal",5488,5894,TRUE
+P1078,Nobis Appliances,Home & Kitchen,Appliances,"Deep, Wali and Sant",19171,23389,TRUE
+P1079,Labore Food,Grocery,Food,Dugar-Barad,5839,9159,TRUE
+P1080,Voluptas Mobile,Electronics,Mobile Phones,"Bobal, Subramanian and Bhavsar",545,5303,TRUE
+P1081,Quam Food,Grocery,Food,"Kumer, Guha and Kapadia",8284,11888,TRUE
+P1082,Placeat Mobile,Electronics,Mobile Phones,Gaba PLC,6418,8487,TRUE
+P1083,Cum Mobile,Electronics,Mobile Phones,Dayal-Mann,3905,7188,TRUE
+P1084,Porro Decor,Home & Kitchen,Decor,Reddy Inc,14764,18967,TRUE
+P1085,Nihil Appliances,Home & Kitchen,Appliances,Bhandari Group,4050,5647,TRUE
+P1086,Nisi Men,Fashion,Men Clothing,Kata Ltd,9105,9673,TRUE
+P1087,Recusandae Men,Fashion,Men Clothing,Jain-Ben,2255,5062,TRUE
+P1088,Quia Footwear,Fashion,Footwear,Solanki-Behl,16903,21299,TRUE
+P1088,Voluptas Beverages,Grocery,Beverages,"Mand, Trivedi and Badal",15231,18424,TRUE
+P1090,Eius Mobile,Electronics,Mobile Phones,Kala-Karan,2227,6496,TRUE
+P1091,Delectus Decor,Home & Kitchen,Decor,Chacko-Sachar,10662,12784,TRUE
+P1092,Alias Laptops,Electronics,Laptops,Bhakta PLC,8636,9784,TRUE
+P1093,Hic Furniture,Home & Kitchen,Furniture,Joshi Inc,4453,7635,TRUE
+P1094,Sint Laptops,Electronics,Laptops,"Dada, Uppal and Talwar",972,3783,TRUE
+P1095,Fugit Food,Grocery,Food,Gupta and Sons,13786,13952,TRUE
+P1096,Odio Footwear,Fashion,Footwear,Krishna-Swamy,14887,16951,TRUE
+P1097,Impedit Household,Grocery,Household,"Lalla, Sastry and Kala",8625,8915,TRUE
+P1098,Ipsum Decor,Home & Kitchen,Decor,"Bail, Johal and Sharma",19622,22065,TRUE
+P1099,Eius Decor,Home & Kitchen,Decor,Arora-Sani,13662,17578,TRUE
+P1100,Natus Mobile,Electronics,Mobile Phones,Kunda-Chauhan,9085,9778,TRUE
+P1101,Vero Footwear,Fashion,Footwear,Sachar-Brar,16667,17061,TRUE
+P1102,Veritatis Food,Grocery,Food,Sarraf-Raja,9917,11805,TRUE
+P1103,Pariatur Men,Fashion,Men Clothing,Malhotra-Sanghvi,16719,19689,TRUE
+P1104,Aliquid Mobile,Electronics,Mobile Phones,Bassi-Aggarwal,16611,18741,TRUE
+P1105,Enim Women,Fashion,Women Clothing,Sankar PLC,6352,10648,TRUE
+P1106,Velit Household,Grocery,Household,Dubey-Sani,12926,16729,TRUE
+P1107,Maiores Beverages,Grocery,Beverages,Kapadia Inc,5180,7054,TRUE
+P1108,Odit Women,Fashion,Women Clothing,Basak Ltd,13234,14233,TRUE
+P1109,Veritatis Household,Grocery,Household,Grewal-Khatri,6055.2,5046,TRUE
+P1110,Non Food,Grocery,Food,Warrior-Raval,3237,5745,TRUE
+P1111,Nam Household,Grocery,Household,"Sule, Toor and Salvi",4210,6965,TRUE
+P1112,Atque Furniture,Home & Kitchen,Furniture,Desai Ltd,14115,14915,TRUE
+P1113,Eveniet Food,Grocery,Food,Wali-Sagar,1090,2267,TRUE
+P1114,Placeat Furniture,Home & Kitchen,Furniture,"Kohli, Chaudhary and Grover",11523,15114,TRUE
+P1115,Explicabo Decor,Home & Kitchen,Decor,Kumar PLC,17044,20308,TRUE
+P1116,Nostrum Beverages,Grocery,Beverages,Bansal-Thaman,1059,5919,TRUE
+P1117,Delectus Appliances,Home & Kitchen,Appliances,Shan-Badal,7389,10710,TRUE
+P1118,Nobis Women,Fashion,Women Clothing,Uppal-Mallick,19401,23140,TRUE
+P1119,Iusto Mobile,Electronics,Mobile Phones,Bumb LLC,15200,20033,TRUE
+P1120,Harum Decor,Home & Kitchen,Decor,Andra-Hari,18830,20523,TRUE
+P1121,Laudantium Laptops,Electronics,Laptops,Mander Ltd,7514,12001,TRUE
+P1122,Libero Furniture,Home & Kitchen,Furniture,Hans-Bora,3548,4929,TRUE
+P1123,Nisi Decor,Home & Kitchen,Decor,Bhandari PLC,11017,15348,TRUE
+P1124,Vero Food,Grocery,Food,"Kumer, Rege and Hayer",16784,18693,TRUE
+P1125,Voluptatem Men,Fashion,Men Clothing,Tailor-Chakraborty,6698,8150,TRUE
+P1126,Dolore Appliances,Home & Kitchen,Appliances,"Cheema, Mangal and Ramesh",11822,13666,TRUE
+P1127,Dolor Women,Fashion,Women Clothing,Doshi Inc,11524,11658,TRUE
+P1128,Ab Footwear,Fashion,Footwear,Shukla PLC,5679,10078,TRUE
+P1129,Rem Food,Grocery,Food,"Bains, Sodhi and Viswanathan",1226,5589,TRUE
+P1130,Veritatis Laptops,Electronics,Laptops,Bhattacharyya-Behl,7452,9394,TRUE
+P1131,Nostrum Decor,Home & Kitchen,Decor,Walia-Bajaj,19589,20406,TRUE
+P1132,Dolores Accessories,Electronics,Accessories,Dutta and Sons,14355,19210,FALSE
+P1133,Perferendis Household,Grocery,Household,"Agate, Chowdhury and Baral",14274,14458,TRUE
+P1134,Iure Beverages,Grocery,Beverages,Ravel-Choudhry,5795,8636,TRUE
+P1135,Quia Decor,Home & Kitchen,Decor,Aggarwal-Lad,16729,18707,TRUE
+P1136,Provident Appliances,Home & Kitchen,Appliances,"Sarma, Sheth and Acharya",2341,3271,TRUE
+P1137,Rerum Household,Grocery,Household,"Bhardwaj, Sha and Shukla",7512,8938,TRUE
+P1138,Corporis Beverages,Grocery,Beverages,Shukla Group,7607,8919,TRUE
+P1139,Numquam Food,Grocery,Food,"Ganesh, Ganesan and Bhattacharyya",18585,21395,TRUE
+P1140,Voluptate Accessories,Electronics,Accessories,Kara LLC,16028,18510,TRUE
+P1141,Excepturi Laptops,Electronics,Laptops,Ganesh-Dewan,1876,5607,TRUE
+P1142,Ab Furniture,Home & Kitchen,Furniture,"Kale, Halder and Anand",7256,11011,TRUE
+P1143,Harum Beverages,Grocery,Beverages,Bera-Dewan,8032,8850,TRUE
+P1144,Laudantium Food,Grocery,Food,Kumer-Gandhi,19156,21604,TRUE
+P1145,Maiores Women,Fashion,Women Clothing,"Dhar, Grover and Chauhan",10583,13495,TRUE
+P1146,Voluptatum Men,Fashion,Men Clothing,"Barman, Dixit and Bobal",10934,13303,TRUE
+P1147,Esse Decor,Home & Kitchen,Decor,Kumer-Jayaraman,7666,10106,TRUE
+P1148,Nemo Food,Grocery,Food,Tella-Chaudhry,95670,10231,TRUE
+P1149,Tempore Accessories,Electronics,Accessories,Datta-Sandal,8851,12341,TRUE
+P1150,Mollitia Food,Grocery,Food,"Kari, Kalita and Bhatt",3352,7422,TRUE
+P1151,Dolore Appliances,Home & Kitchen,Appliances,Divan Ltd,11034,12508,TRUE
+P1152,Blanditiis Decor,Home & Kitchen,Decor,Chacko Ltd,14084.4,11737,TRUE
+P1153,Architecto Laptops,Electronics,Laptops,Shenoy and Sons,9859,14011,TRUE
+P1154,Iure Mobile,Electronics,Mobile Phones,Saini-Soni,14947,16309,TRUE
+P1155,Consequuntur Decor,Home & Kitchen,Decor,"Wagle, Deshpande and Kohli",13918,15032,TRUE
+P1156,Iusto Household,Grocery,Household,"Behl, Hayre and Tata",11834,14997,TRUE
+P1157,Id Decor,Home & Kitchen,Decor,Varghese-Trivedi,19419,20469,TRUE
+P1158,Qui Laptops,Electronics,Laptops,Bhat-Kadakia,17364,18699,TRUE
+P1159,Omnis Mobile,Electronics,Mobile Phones,Manne and Sons,14504,18152,TRUE
+P1160,Molestias Mobile,Electronics,Mobile Phones,"Gaba, Golla and Handa",17324,17020,TRUE
+P1161,Esse Footwear,Fashion,Footwear,Barman PLC,18988,23914,TRUE
+P1162,Nihil Household,Grocery,Household,Dugar-Kadakia,4007,8893,TRUE
+P1163,Labore Food,Grocery,Food,"Banerjee, Devi and Khare",10941,11924,TRUE
+P1164,Facere Furniture,Home & Kitchen,Furniture,Varkey-Varty,2533,5775,FALSE
+P1165,Fugiat Furniture,Home & Kitchen,Furniture,Krishnan-Ravel,19940,21855,TRUE
+P1166,Earum Footwear,Fashion,Footwear,Savant LLC,627,1640,TRUE
+P1167,Ab Accessories,Electronics,Accessories,"Sarma, Banerjee and Sehgal",10707,14354,TRUE
+P1168,Neque Laptops,Electronics,Laptops,"Devan, Hegde and Yadav",7982,11993,TRUE
+P1169,Nobis Women,Fashion,Women Clothing,Taneja-Koshy,3760,5160,TRUE
+P1170,Corporis Accessories,Electronics,Accessories,Dayal-Sawhney,10043,13196,TRUE
+P1171,Sed Appliances,Home & Kitchen,Appliances,Tripathi PLC,16016,20278,TRUE
+P1172,Eos Appliances,Home & Kitchen,Appliances,Swamy PLC,11144,15856,TRUE
+P1173,Cum Food,Grocery,Food,Dar-Anand,4239,7396,TRUE
+P1174,Eligendi Furniture,Home & Kitchen,Furniture,Taneja Group,27745,21347,TRUE
+P1175,Nam Footwear,Fashion,Footwear,"Sarraf, Shah and Sidhu",18043,20666,TRUE
+P1176,Est Household,Grocery,Household,"Mangal, Rajan and Chandra",12109,14974,TRUE
+P1177,Totam Women,Fashion,Women Clothing,Kalita and Sons,1988,4568,TRUE
+P1178,Soluta Decor,Home & Kitchen,Decor,Sidhu Inc,8001,8635,TRUE
+P1179,Voluptate Decor,Home & Kitchen,Decor,Dey-Sarma,14925,19591,TRUE
+P1180,Esse Furniture,Home & Kitchen,Furniture,"Thaker, Dhillon and Mangat",3703,6796,TRUE
+P1181,Soluta Laptops,Electronics,Laptops,"Yadav, Suri and Batra",3905,4623,TRUE
+P1182,Magnam Furniture,Home & Kitchen,Furniture,Khurana-Sule,16373,18616,TRUE
+P1183,Culpa Mobile,Electronics,Mobile Phones,Ramanathan-Lal,1797,3139,TRUE
+P1184,Adipisci Decor,Home & Kitchen,Decor,Gara-Rama,19866,23546,TRUE
+P1185,Voluptate Beverages,Grocery,Beverages,"Bhatt, Mann and Rao",4699,7628,TRUE
+P1186,Deleniti Food,Grocery,Food,Deep PLC,10447,14983,TRUE
+P1187,Doloribus Mobile,Electronics,Mobile Phones,Kumar PLC,6161,10875,TRUE
+P1188,Aliquam Accessories,Electronics,Accessories,"Saini, Khosla and Dhillon",11389,15328,TRUE
+P1189,Autem Furniture,Home & Kitchen,Furniture,Bhagat Ltd,19243,23820,TRUE
+P1190,Voluptates Footwear,Fashion,Footwear,Behl and Sons,17998,22649,TRUE
+P1191,Doloribus Beverages,Grocery,Beverages,Yogi-Sem,12668,13093,TRUE
+P1192,Praesentium Mobile,Electronics,Mobile Phones,Som-Singh,15720,20500,TRUE
+P1193,Quo Laptops,Electronics,Laptops,Rana-Sule,15785,18061,TRUE
+P1194,Sapiente Mobile,Electronics,Mobile Phones,"Walla, Chatterjee and Dalal",5840,10696,TRUE
+P1195,Odit Food,Grocery,Food,Jhaveri-Walla,1213,2809,TRUE
+P1196,Maxime Footwear,Fashion,Footwear,Ramaswamy-Chaudhari,16430.399999999998,13692,TRUE
+P1197,Laudantium Laptops,Electronics,Laptops,"Kant, Doctor and Varty",12541,16495,TRUE
+P1198,Quibusdam Beverages,Grocery,Beverages,Sathe PLC,269,834,FALSE
+P1199,Doloribus Food,Grocery,Food,"Choudhury, Deo and Salvi",13248,17589,TRUE
+P1200,Quibusdam Food,Grocery,Food,"Anne, Bhakta and Sen",2795,2422,TRUE
+P1201,Unde Decor,Home & Kitchen,Decor,Sama-Thaman,1562,6002,TRUE
+P1202,Id Women,Fashion,Women Clothing,"Vasa, Sankaran and Bahl",12339,15754,TRUE
+P1203,Rerum Men,Fashion,Men Clothing,"Kapur, Goyal and Suresh",20582.399999999998,17152,TRUE
+P1204,Veritatis Decor,Home & Kitchen,Decor,Kumar-Choudhury,3059,3675,TRUE
+P1205,Magni Laptops,Electronics,Laptops,Mallick-Sundaram,488,3522,TRUE
+P1206,Dolores Accessories,Electronics,Accessories,Chad-Wali,18796,21502,TRUE
+P1207,Magnam Furniture,Home & Kitchen,Furniture,"Chanda, Kuruvilla and Bumb",17773,17879,TRUE
+P1208,Nesciunt Appliances,Home & Kitchen,Appliances,Kuruvilla Ltd,7907,11265,TRUE
+P1209,Dicta Decor,Home & Kitchen,Decor,"Gala, Sur and Rao",10173,14912,TRUE
+P1210,Voluptates Beverages,Grocery,Beverages,Khatri LLC,5045,6616,TRUE
+P1211,Magni Beverages,Grocery,Beverages,Virk LLC,16706,17552,TRUE
+P1212,Temporibus Mobile,Electronics,Mobile Phones,Sibal LLC,17981,21743,TRUE
+P1213,Fugit Decor,Home & Kitchen,Decor,Chokshi PLC,11026,14282,TRUE
+P1214,Veritatis Women,Fashion,Women Clothing,"Garg, Sami and Goswami",9803,10921,TRUE
+P1215,Dolorum Household,Grocery,Household,"Tandon, Ranganathan and Krishna",11848,16425,TRUE
+P1216,A Accessories,Electronics,Accessories,Soman LLC,15743,19992,TRUE
+P1217,Exercitationem Accessories,Electronics,Accessories,Bera Ltd,9722,9870,TRUE
+P1218,Voluptates Furniture,Home & Kitchen,Furniture,"Sahni, Sidhu and Lanka",14217,15354,TRUE
+P1219,In Mobile,Electronics,Mobile Phones,Borde-Vohra,9549,11028,TRUE
+P1220,Blanditiis Footwear,Fashion,Footwear,Chacko-Saraf,13055,15484,TRUE
+P1221,Magnam Footwear,Fashion,Footwear,Ramanathan-Iyengar,16755,17898,TRUE
+P1222,Repellat Women,Fashion,Women Clothing,"Gera, Yohannan and Bala",14054,15054,TRUE
+P1223,Sunt Accessories,Electronics,Accessories,"Dash, Chandra and Kakar",4184,4729,TRUE
+P1224,Maiores Women,Fashion,Women Clothing,Chaudhary-Tandon,18040,21622,TRUE
+P1225,Dolor Household,Grocery,Household,Sarna Ltd,12120,14610,TRUE
+P1226,Dolor Food,Grocery,Food,Walia Ltd,23068.8,19224,TRUE
+P1227,Tenetur Appliances,Home & Kitchen,Appliances,"Swamy, Hans and Karpe",2105,5382,TRUE
+P1228,Id Appliances,Home & Kitchen,Appliances,"Sidhu, Ahluwalia and Hayer",11518,13342,TRUE
+P1229,Animi Accessories,Electronics,Accessories,Bajwa-Roy,19824,23069,TRUE
+P1230,Laborum Beverages,Grocery,Beverages,"Thakkar, Chandra and Bhakta",9610,12075,TRUE
+P1231,Dolore Men,Fashion,Men Clothing,Basak Ltd,9673,11775,TRUE
+P1232,Doloribus Mobile,Electronics,Mobile Phones,Mani-Sharma,2944,4324,TRUE
+P1233,Id Accessories,Electronics,Accessories,Bedi-Barad,15399.599999999999,12833,TRUE
+P1234,Tempore Food,Grocery,Food,Swamy-Sha,3292,5302,TRUE
+P1235,Odio Laptops,Electronics,Laptops,Shah Group,18021,21005,TRUE
+P1236,Dolorem Decor,Home & Kitchen,Decor,Doshi-Chada,1176,1650,TRUE
+P1237,Quo Men,Fashion,Men Clothing,"Mandal, Bora and Garde",19869,21100,TRUE
+P1238,Harum Decor,Home & Kitchen,Decor,"Krishnamurthy, Sandal and Walla",15489,18960,TRUE
+P1239,Sapiente Furniture,Home & Kitchen,Furniture,Dave-Ramanathan,18248,20434,TRUE
+P1240,Recusandae Appliances,Home & Kitchen,Appliances,"Bhat, Andra and Dass",4853,9126,TRUE
+P1241,Officiis Beverages,Grocery,Beverages,Dewan PLC,14478,19467,TRUE
+P1242,Dolor Laptops,Electronics,Laptops,Babu Group,10857,13862,TRUE
+P1243,Corporis Furniture,Home & Kitchen,Furniture,"Din, Mane and Saini",18575,21225,TRUE
+P1244,Nihil Food,Grocery,Food,"Kala, Randhawa and Ganguly",4994,5773,TRUE
+P1245,Corrupti Furniture,Home & Kitchen,Furniture,"Srinivasan, Kapadia and Chhabra",614,3373,TRUE
+P1246,Quos Decor,Home & Kitchen,Decor,Salvi-Dugal,17768,22713,TRUE
+P1247,Provident Laptops,Electronics,Laptops,Master Ltd,14718,15686,TRUE
+P1248,Recusandae Beverages,Grocery,Beverages,Karpe-Wable,11805,13480,FALSE
+P1249,Eos Footwear,Fashion,Footwear,Mane-Salvi,13537,17145,TRUE
+P1250,Aliquid Accessories,Electronics,Accessories,"Kalita, Bal and Anne",3072,4746,TRUE
+P1251,Atque Appliances,Home & Kitchen,Appliances,Wable-Cheema,6501,8279,TRUE
+P1252,Dignissimos Mobile,Electronics,Mobile Phones,"Mani, Sen and Tak",15626,17202,TRUE
+P1253,Quo Food,Grocery,Food,Karpe-Andra,19601,20605,TRUE
+P1254,Facere Laptops,Electronics,Laptops,Sankaran LLC,16313,18521,TRUE
+P1255,Magni Furniture,Home & Kitchen,Furniture,Dua-Bajwa,11176,14851,TRUE
+P1256,Voluptatem Food,Grocery,Food,Vasa-Chaudhari,8374,8546,TRUE
+P1257,Aperiam Mobile,Electronics,Mobile Phones,Devan Ltd,13616,18316,TRUE
+P1258,Dolores Appliances,Home & Kitchen,Appliances,Venkatesh-Vasa,18717,21780,FALSE
+P1259,Odio Laptops,Electronics,Laptops,Kothari-Kata,9552,13997,TRUE
+P1260,Cupiditate Household,Grocery,Household,"Raja, Sibal and Ratti",1665,1933,TRUE
+P1261,Dolorem Appliances,Home & Kitchen,Appliances,Gera LLC,18627,22756,TRUE
+P1262,Perferendis Furniture,Home & Kitchen,Furniture,Som PLC,7682,11478,TRUE
+P1263,Ut Accessories,Electronics,Accessories,Sharaf and Sons,6803,7564,TRUE
+P1264,Explicabo Laptops,Electronics,Laptops,Shere and Sons,766,5155,TRUE
+P1265,Similique Mobile,Electronics,Mobile Phones,Sharma Ltd,11227,11992,TRUE
+P1266,Architecto Men,Fashion,Men Clothing,Acharya-Wali,18873.6,15728,TRUE
+P1267,Quidem Laptops,Electronics,Laptops,Kala-Dugar,14448,14604,TRUE
+P1268,Atque Mobile,Electronics,Mobile Phones,Hari-Kumar,1384,5770,TRUE
+P1269,Voluptatum Mobile,Electronics,Mobile Phones,Vohra Ltd,2607,4684,TRUE
+P1270,Asperiores Furniture,Home & Kitchen,Furniture,"Hari, Chaudhary and Bhatt",17733,19833,TRUE
+P1271,Neque Household,Grocery,Household,Bumb and Sons,11966,14975,TRUE
+P1272,Vitae Mobile,Electronics,Mobile Phones,Mahal and Sons,17477,21727,TRUE
+P1273,Magni Decor,Home & Kitchen,Decor,"Edwin, Sahni and Butala",16658,17610,TRUE
+P1274,Qui Food,Grocery,Food,Dube-Sarraf,18818,20728,TRUE
+P1275,Dignissimos Accessories,Electronics,Accessories,Dhillon PLC,18249,22022,TRUE
+P1276,Corporis Appliances,Home & Kitchen,Appliances,"Din, Chaudhry and Keer",16347,17692,TRUE
+P1277,Harum Footwear,Fashion,Footwear,Garde PLC,2478,2790,TRUE
+P1278,Quisquam Household,Grocery,Household,Sastry-Lal,14689,19013,TRUE
+P1279,Quibusdam Food,Grocery,Food,"Gour, Zachariah and Gour",3443,5899,TRUE
+P1280,Quae Food,Grocery,Food,Doshi-Sethi,15847,17740,TRUE
+P1281,Expedita Laptops,Electronics,Laptops,"Saini, Kapur and Badal",9276,12731,TRUE
+P1282,Sint Furniture,Home & Kitchen,Furniture,Brar Group,14656,19507,TRUE
+P1283,Vel Women,Fashion,Women Clothing,Chand Ltd,16140,17954,TRUE
+P1284,Aut Appliances,Home & Kitchen,Appliances,Rana and Sons,10756,13277,TRUE
+P1285,Natus Beverages,Grocery,Beverages,Samra-Sahni,17796,20596,TRUE
+P1286,Eaque Men,Fashion,Men Clothing,"Kakar, Swamy and Sanghvi",614,1267,TRUE
+P1287,Enim Household,Grocery,Household,"Chandra, Handa and Toor",18230,21054,TRUE
+P1288,Nihil Food,Grocery,Food,"Kurian, Jaggi and Ray",8843,10267,TRUE
+P1289,Quisquam Men,Fashion,Men Clothing,Kari-Chowdhury,12411,16378,TRUE
+P1290,Ex Appliances,Home & Kitchen,Appliances,"Khatri, Butala and Devi",3067,5987,TRUE
+P1291,Delectus Food,Grocery,Food,Zachariah PLC,12159,12542,TRUE
+P1292,Vel Beverages,Grocery,Beverages,Subramanian LLC,19926,23214,TRUE
+P1293,Sed Beverages,Grocery,Beverages,Saxena-Edwin,18439,19741,TRUE
+P1294,Ipsum Footwear,Fashion,Footwear,"Sarma, Deshpande and Raja",11494,16364,TRUE
+P1295,Totam Men,Fashion,Men Clothing,"Walla, Malhotra and Bera",497,3337,TRUE
+P1296,Fugiat Decor,Home & Kitchen,Decor,"Krishna, Chada and Acharya",8947,10596,TRUE
+P1297,Cum Mobile,Electronics,Mobile Phones,Subramaniam-Lal,19977,20307,TRUE
+P1298,Sequi Furniture,Home & Kitchen,Furniture,Singhal LLC,11863,14176,TRUE
+P1299,Vitae Women,Fashion,Women Clothing,Krish and Sons,17320,17937,TRUE
+P1203,Rerum Men,Fashion,Men Clothing,"Kapur, Goyal and Suresh",16620,17152,TRUE
+P1266,Architecto Men,Fashion,Men Clothing,Acharya-Wali,11229,15728,TRUE
+P1152,Blanditiis Decor,Home & Kitchen,Decor,Chacko Ltd,7599,11737,TRUE
+P1009,Velit Decor,Home & Kitchen,Decor,Chand Ltd,15566,15817,TRUE
+P1233,Id Accessories,Electronics,Accessories,Bedi-Barad,11128,12833,TRUE
+P1226,Dolor Food,Grocery,Food,Walia Ltd,17982,19224,TRUE
