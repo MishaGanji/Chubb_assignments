@@ -5,13 +5,13 @@ This project delivers an end-to-end retail sales analytics system that integrate
 
 The system follows a **Medallion Architecture (Bronze → Silver → Gold)** to transform raw retail data into analytics-ready datasets and interactive dashboards for business stakeholders.
 
-### Business Context
+## Business Context
 
 Retail organizations generate large volumes of transactional data across multiple regions, products, and customer segments. Without a centralized analytics pipeline, this data becomes difficult to process, validate, and analyze consistently.
 
 This project demonstrates how modern data engineering tools can be used to automate data processing, improve data quality, and generate actionable business insights.
 
-### Datasets Used
+## Datasets Used
 
 The project is built using the following datasets:
 
@@ -117,8 +117,8 @@ The Gold layer contains business-ready analytics tables:
         │ • Product & Customer Analytics            │
         └───────────────────────────────────────────┘
 
-                    ▲
-                    │
+                    
+                    
         ┌───────────────────────────────────────────┐
         │          APACHE AIRFLOW (ORCHESTRATION)   │
         │-------------------------------------------│
