@@ -1,4 +1,4 @@
-# Global Sales & Retail Performance Analytics System
+<img width="1901" height="808" alt="image" src="https://github.com/user-attachments/assets/b094cdfc-a783-4a14-8d42-bf45cfec278d" /># Global Sales & Retail Performance Analytics System
 ## Project Overview
 
 This project delivers an end-to-end retail sales analytics system that integrates data engineering, workflow orchestration, and business intelligence to analyze sales performance, customer behavior, product profitability, and regional trends.
@@ -33,7 +33,6 @@ The project is built using the following datasets:
 #### 6. sales_targets.csv 
 - Defines sales targets by region and time period for performance comparison against actual sales.
 
-![Alt text for the image](Screenshots/rawdata.png)
 
 ## Data Processing & ETL Layers
 **Bronze Layer – Raw Data Ingestion**
@@ -76,7 +75,7 @@ The Gold layer contains business-ready analytics tables:
 
 - Target vs Actual Performance
 
-![Alt text for the image](path/to/your/image.png)
+![Alt text for the image](Screenshots/gold_tables.png)
 
 ## Architecture
 
@@ -184,7 +183,7 @@ Steps:
 
 #### 4. Upload all raw CSV files from the local `datasets/` folder into this volume path
 
-![Alt text for the image](path/to/your/image.png)
+![Alt text for the image](Screenshots/rawdata.png)
 
 #### 1.2 Update File Paths in Notebooks
 
@@ -208,7 +207,7 @@ Import the Databricks notebooks into your workspace.
 #### 3. Attach a cluster
 #### 4. Save the job and **note the Job ID**
 
-![Alt text for the image](path/to/your/image.png)
+![Alt text for the image](Screenshots/jobs_pipeline.png)
 
 ### 3. Airflow Setup Using Docker
 
@@ -246,7 +245,7 @@ Login using the default credentials configured in Docker:
 
 **Password**: airflow
 
-![Alt text for the image](path/to/your/image.png)
+![Alt text for the image](Screenshots/airflow.png)
 
 ####  3.5 Configure Databricks Connection in Airflow
 To allow Airflow to trigger Databricks jobs:
@@ -266,7 +265,9 @@ Password: <Databricks Personal Access Token>
 
 This connection is used by Airflow DAGs to securely invoke Databricks Jobs.
 
-![Alt text for the image](path/to/your/image.png)
+![Alt text for the image](Screenshots/airflow_admin.png)
+![Alt text for the image](Screenshots/airflow_connection.png)
+
 
 #### 3.6 Create Airflow DAG for ETL Orchestration
 An Airflow DAG file is created to define the ETL workflow and task dependencies.
@@ -329,7 +330,9 @@ Successful execution confirms:
 
 - End-to-end ETL automation
 
-![Alt text for the image](path/to/your/image.png)
+![Alt text for the image](Screenshots/dag.png)
+![Alt text for the image](Screenshots/job_done.png)
+
 
 ### 4. Gold Layer Consumption & Power BI Dashboard Creation
 
@@ -355,7 +358,9 @@ Steps:
 
 This enables direct consumption of Gold layer tables in Power BI without manual data export.
 
-![Alt text for the image](path/to/your/image.png)
+![Alt text for the image](Screenshots/powerbi_connector.png)
+![Alt text for the image](Screenshots/powerbi_signin.png)
+
 
 ---
 
@@ -378,18 +383,18 @@ Using the connected Gold layer datasets, three interactive dashboards are create
 - **Sales Performance Dashboard**  
   Overall revenue, profit, sales trends, and KPI metrics
 
-![Alt text for the image](path/to/your/image.png)
+![Alt text for the image](Screenshots/sales_dashboard.png)
 
 
 - **Regional & Store Performance Dashboard**  
   Region-wise and store-level comparisons with geographic insights
 
-![Alt text for the image](path/to/your/image.png)
+![Alt text for the image](Screenshots/regional_store_dashboard.png)
 
 - **Product & Customer Analytics Dashboard**  
   Product profitability, customer segmentation, and purchase behavior analysis
 
-![Alt text for the image](path/to/your/image.png)
+![Alt text for the image](Screenshots/product_customer_dashboard.png)
 
 These dashboards provide actionable insights for business stakeholders and support data-driven decision-making.
 
