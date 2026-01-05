@@ -1,4 +1,4 @@
-<img width="1901" height="808" alt="image" src="https://github.com/user-attachments/assets/b094cdfc-a783-4a14-8d42-bf45cfec278d" /># Global Sales & Retail Performance Analytics System
+# Global Sales & Retail Performance Analytics System
 ## Project Overview
 
 This project delivers an end-to-end retail sales analytics system that integrates data engineering, workflow orchestration, and business intelligence to analyze sales performance, customer behavior, product profitability, and regional trends.
