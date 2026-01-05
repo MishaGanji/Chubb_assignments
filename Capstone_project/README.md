@@ -33,7 +33,7 @@ The project is built using the following datasets:
 #### 6. sales_targets.csv 
 - Defines sales targets by region and time period for performance comparison against actual sales.
 
-![Alt text for the image](path/to/your/image.png)
+![Alt text for the image](Capstone_project/Screenshots/rawdata.png)
 
 ## Data Processing & ETL Layers
 **Bronze Layer – Raw Data Ingestion**
