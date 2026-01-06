@@ -1,0 +1,51 @@
+store_id,store_name,city,state,country,region,store_type,open_date
+S200,"Bhasin, Srivastava and Ramakrishnan",Bulandshahr,West Bengal,India,West,Mall,15-11-2020
+S201,Kibe PLC,Bhusawal,Gujarat,India,South,Standalone,28-10-2017
+S202,Loke PLC,Aurangabad,Tamil Nadu,India,East,Standalone,28-01-2020
+S203,Talwar-Biswas,Morena,Mizoram,India,East,Standalone,17-12-2017
+S204,Sachdeva-Mani,Kirari Suleman Nagar,Himachal Pradesh,India,,Warehouse,09-09-2018
+S205,"Kala, Deol and Konda",Gulbarga,Bihar,India,South,Warehouse,16-08-2021
+S206,Grover and Sons,Shimoga,Odisha,India,South,Standalone,12-05-2021
+S207,"Mahal, Karan and Balakrishnan",Tezpur,Nagaland,India,North,Warehouse,14-03-2024
+S208,Saha LLC,South Dumdum,Rajasthan,India,East,Warehouse,10-09-2019
+S209,Setty-Sagar,Madanapalle,Haryana,India,,Standalone,06-09-2016
+S210,Rajagopal Ltd,Dindigul,Manipur,India,North,Warehouse,20-06-2016
+S211,Mani Group,Katihar,Tripura,India,West,Standalone,25-11-2016
+S212,"Chandra, Barad and Grover",Bulandshahr,Chhattisgarh,India,West,Mall,24-06-2023
+S213,Saini Group,Vijayanagaram,Punjab,India,,Warehouse,13-11-2019
+S214,Deol-Dewan,Karawal Nagar,Andhra Pradesh,India,West,Standalone,24-01-2018
+S215,Upadhyay-Shukla,Jamalpur,Maharashtra,India,East,Standalone,09-10-2020
+S216,Acharya Ltd,Thoothukudi,Madhya Pradesh,India,East,Warehouse,16-02-2023
+S217,Keer Group,Belgaum,Karnataka,India,West,Warehouse,30-05-2017
+S218,"Karan, Ramanathan and Bansal",Panihati,Uttarakhand,India,North,Warehouse,25-01-2023
+S219,"Chawla, Vaidya and Issac",Salem,Uttarakhand,India,North,Warehouse,06-10-2023
+S220,"Agate, Ramaswamy and Lata",Bikaner,Chhattisgarh,India,South,Standalone,27-03-2022
+S221,Dewan Group,Amaravati,Mizoram,India,North,Standalone,15-02-2024
+S222,Varma-Swamy,Haridwar,Haryana,India,East,Mall,30-09-2022
+S223,Devi-Singh,Ujjain,Telangana,India,,Standalone,07-12-2017
+S224,Garde-Zachariah,Silchar,Telangana,India,East,Mall,30-06-2022
+S225,Kara-Doctor,Dhule,Haryana,India,South,Warehouse,07-11-2017
+S226,Saraf-Bahri,Chittoor,Andhra Pradesh,India,North,Standalone,22-12-2020
+S227,"Sachdev, Vig and Mangal",Gandhidham,Meghalaya,India,North,Standalone,28-02-2023
+S228,"Kashyap, Sachdev and Sarin",Bangalore,Goa,India,South,Warehouse,26-10-2020
+S229,Gola and Sons,Panvel,Tamil Nadu,India,South,Temporary,23-12-2022
+S230,Ahluwalia Group,Morbi,Tripura,India,East,Mall,18-06-2020
+S231,Dhaliwal-Jha,Anantapuram,Gujarat,India,North,Mall,19-05-2024
+S232,Kale LLC,Bhimavaram,Odisha,India,North,Standalone,23-05-2021
+S233,Hayre PLC,Darbhanga,Uttarakhand,India,North,Warehouse,12-08-2022
+S234,Edwin-Jani,Jodhpur,Nagaland,India,East,Warehouse,08-03-2016
+S235,Kata LLC,Bokaro,Haryana,India,North,Standalone,31-07-2022
+S236,"Guha, Rajagopalan and Lad",Serampore,Assam,India,West,Warehouse,02-08-2016
+S237,Dora-Maharaj,Bhopal,Andhra Pradesh,India,North,Standalone,19-04-2016
+S238,Devi-Anne,Sirsa,Himachal Pradesh,India,East,Mall,01-10-2020
+S239,"Subramanian, Lala and Chopra",Bathinda,Uttar Pradesh,India,West,Standalone,10-02-2024
+S240,"Bail, Bajaj and Shah",Morena,Arunachal Pradesh,India,,Warehouse,07-08-2017
+S241,Trivedi-Vasa,Nellore,Kerala,India,South,Standalone,16-01-2019
+S242,"Sachdev, Khatri and Saha",Chinsurah,Chhattisgarh,India,North,Standalone,12-12-2024
+S243,"Deshmukh, Atwal and Reddy",South Dumdum,Arunachal Pradesh,India,South,Mall,08-01-2024
+S244,Sridhar Group,Coimbatore,Jharkhand,India,East,Standalone,19-08-2016
+S245,Trivedi Group,Gudivada,Manipur,India,East,Standalone,30-06-2016
+S246,Acharya-Dugar,Faridabad,Nagaland,India,North,Warehouse,01-09-2024
+S247,Khosla PLC,Vadodara,Mizoram,India,,Warehouse,27-06-2019
+S248,Thakkar Group,Miryalaguda,Telangana,India,West,Standalone,30-05-2024
+S249,Keer LLC,Chinsurah,Bihar,India,East,Warehouse,17-08-2018
